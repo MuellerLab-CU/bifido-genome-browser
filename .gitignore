@@ -4,4 +4,4 @@ LOCAL_SETUP.md
 backups/
 .venv/
 .DS_Store
-__pycache__/
+scripts/__pycache__/

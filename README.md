@@ -5,17 +5,15 @@ An interactive website for exploring 809 curated genomes of commercial
 where they were isolated, when they were submitted, and their assembly
 quality.
 
-**Website:** _link coming soon_
+**Website:** https://muellerlab-cu.github.io/bifido-genome-browser/
 
-A collaboration between the **Mueller Lab** (University of Colorado Anschutz
-Medical Campus) and the **Olm Lab** (University of Colorado Boulder).
 
 ## What's in the browser
 
 | Tab | Shows |
 |---|---|
-| **Tree** | All 352 genome clusters arranged by species/subspecies. Click a cluster to see its genomes on an average-nucleotide-identity (ANI) tree, with a map and timeline of its members. Pin up to four clusters to compare them side by side. |
-| **Map** | Where each genome was isolated (or, where no location was reported, the country of the submitting institution, marked as inferred). |
+| **Tree** | All 352 genome clusters arranged by species/subspecies. Click a cluster to see its genomes on an average-nucleotide-identity (ANI) tree, with a map and timeline of its members. |
+| **Map** | Where each genome was isolated (or, where no location was reported, the country/region of the submitting institution, marked as inferred). |
 | **Timeline** | Genomes submitted per year, 2009–2026, by species. |
 | **Table** | Every genome with its metadata, quality statistics and a link to NCBI; searchable and filterable. |
 | **Summary** | Counts by species, country/region and year, for all genomes or a chosen set of species. |
