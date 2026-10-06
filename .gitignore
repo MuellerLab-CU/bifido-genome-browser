@@ -1,3 +1,7 @@
-.DS_Store
-.venv/
+# Local only — never published
+CLAUDE.md
+LOCAL_SETUP.md
 backups/
+.venv/
+.DS_Store
+__pycache__/
