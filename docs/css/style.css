@@ -1,0 +1,1510 @@
+:root {
+  --surface: #ffffff;
+  --surface-alt: #f5f6f7;
+  --surface-border: #e2e5e8;
+  --ink-primary: #1a1d21;
+  --ink-secondary: #55606b;
+  --ink-muted: #8a939c;
+  --accent: #2a6f97;
+  --grid: #e8eaed;
+  --shadow: 0 2px 10px rgba(20, 24, 28, 0.08);
+  --radius: 8px;
+  --tier1-border: #3a3f44;
+  --tier2-border: #9aa2ab;
+  --cu-gold: #cfb87c; /* University of Colorado gold — accents only */
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--surface-alt);
+  color: var(--ink-primary);
+  font: 15px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+/* ---------- Header ---------- */
+
+/* Header: University of Colorado gold as a restrained accent (top rule,
+   ridgeline, the bar above each lab name) — the two labs have no logos, so the shared identity
+   is the university. Gold is too light for text on white; never use it
+   for text. */
+.app-header {
+  position: relative;
+  background: var(--surface);
+  border-top: 4px solid var(--cu-gold);
+  border-bottom: 1px solid var(--surface-border);
+  padding: 18px 28px 0;
+}
+
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px 32px;
+  flex-wrap: wrap;
+}
+
+.header-title {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  color: var(--ink-primary);
+}
+
+/* Lab credit: two equal columns, each topped by a short gold bar, split by
+   a hairline. Name / university (small caps) / campus. */
+.labs {
+  display: flex;
+  align-items: stretch;
+}
+
+.lab {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  padding: 9px 22px 0;
+}
+
+.lab + .lab {
+  border-left: 1px solid var(--surface-border);
+}
+
+.lab:last-child {
+  padding-right: 0;
+}
+
+.lab::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 22px;
+  width: 22px;
+  height: 3px;
+  border-radius: 2px;
+  background: var(--cu-gold);
+}
+
+.lab__name {
+  font-size: 14.5px;
+  font-weight: 700;
+  color: var(--ink-primary);
+  letter-spacing: -0.005em;
+}
+
+.lab__univ {
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-muted);
+  margin-top: 2px;
+}
+
+.lab__campus {
+  font-size: 12.5px;
+  color: var(--ink-secondary);
+}
+
+.header-ridge {
+  display: block;
+  width: 100%;
+  height: 22px;
+  margin: 10px 0 6px;
+  fill: var(--cu-gold);
+  opacity: 0.35;
+}
+
+/* ---------- Footer ---------- */
+
+.app-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 20px;
+  padding: 14px 28px 22px;
+  font-size: 12px;
+  color: var(--ink-secondary);
+  border-top: 1px solid var(--surface-border);
+  margin-top: 8px;
+}
+
+.app-footer__right {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.app-footer__data {
+  color: var(--ink-muted);
+}
+
+.app-footer__version {
+  font-weight: 600;
+  color: var(--ink-secondary);
+  font-variant-numeric: tabular-nums;
+  padding: 2px 8px;
+  border: 1px solid var(--surface-border);
+  border-radius: 100px;
+}
+
+/* ---------- Tabs ---------- */
+
+.header-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.tab-bar {
+  display: flex;
+  gap: 4px;
+}
+
+.tab-button {
+  appearance: none;
+  border: none;
+  background: transparent;
+  padding: 10px 16px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--ink-secondary);
+  cursor: pointer;
+  border-bottom: 3px solid transparent;
+  border-radius: var(--radius) var(--radius) 0 0;
+}
+
+.tab-button:hover {
+  background: var(--surface-alt);
+  color: var(--ink-primary);
+}
+
+.tab-button.active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* ---------- Selection banner ---------- */
+
+#selection-banner {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: #eef5fa;
+  border-bottom: 1px solid #d7e7f2;
+  padding: 8px 28px;
+  font-size: 13px;
+}
+
+#selection-banner[hidden] {
+  display: none;
+}
+
+.selection-banner__swatch {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  flex: none;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15);
+}
+
+.selection-banner__text {
+  font-weight: 600;
+  flex: 1 1 auto;
+}
+
+.selection-banner__link {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.selection-banner__link:hover {
+  text-decoration: underline;
+}
+
+.selection-banner__clear {
+  appearance: none;
+  border: none;
+  background: transparent;
+  font-size: 18px;
+  line-height: 1;
+  color: var(--ink-secondary);
+  cursor: pointer;
+  padding: 0 4px;
+}
+
+.selection-banner__clear:hover {
+  color: var(--ink-primary);
+}
+
+#selection-banner {
+  flex-wrap: wrap;
+  row-gap: 6px;
+}
+
+.selection-banner__part {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.selection-banner__compare {
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.selection-banner__part + .selection-banner__compare {
+  border-left: 1px solid #c9dceb;
+  padding-left: 12px;
+}
+
+.selection-banner__label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-secondary);
+  margin-right: 2px;
+}
+
+.selection-banner__chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--surface);
+  border: 1px solid #c9dceb;
+  border-radius: 999px;
+  padding: 2px 4px 2px 3px;
+  font-size: 12.5px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.selection-banner__chip.is-preview {
+  border-style: dashed;
+  padding-right: 10px;
+  color: var(--ink-secondary);
+}
+
+.selection-banner__chip .selection-banner__swatch {
+  width: 10px;
+  height: 10px;
+}
+
+.selection-banner__chip .selection-banner__clear {
+  font-size: 15px;
+  padding: 0 4px;
+}
+
+.selection-banner__clear-all {
+  appearance: none;
+  border: none;
+  background: none;
+  font: inherit;
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--accent);
+  cursor: pointer;
+  margin-left: 4px;
+  padding: 2px 4px;
+}
+
+.selection-banner__clear-all:hover {
+  text-decoration: underline;
+}
+
+/* ---------- Panels ---------- */
+
+main {
+  padding: 20px 28px 40px;
+}
+
+.panel {
+  display: none;
+  background: var(--surface);
+  border: 1px solid var(--surface-border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 18px;
+  min-height: 560px;
+}
+
+.panel.active {
+  display: block;
+}
+
+.panel__header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.panel__title {
+  font-size: 15px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.panel__hint {
+  font-size: 12px;
+  color: var(--ink-muted);
+  flex-basis: 100%;
+}
+
+.stats-species-picker {
+  position: relative;
+  margin-left: auto;
+}
+
+/* Tier/rep legend: deliberately neutral black/white, never species color —
+   tier (border style) and rep (fill) are orthogonal to the species_subsp
+   color encoding used everywhere else, see CLAUDE.md "Visual design". */
+.tier-legend {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.tier-legend__item {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 12.5px;
+  color: var(--ink-secondary);
+  white-space: nowrap;
+}
+
+.tier-legend__icon {
+  width: 14px;
+  height: 14px;
+  flex: none;
+}
+
+.tier-legend__icon circle {
+  fill: #fff;
+  stroke: var(--ink-primary);
+  stroke-width: 1.6;
+}
+
+.tier-legend__icon circle.tier-legend__dashed {
+  stroke-dasharray: 2.4, 1.8;
+}
+
+.tier-legend__icon circle.tier-legend__filled {
+  fill: var(--ink-primary);
+}
+
+/* ---------- Shared hierarchical filter / legend (tree + map + timeline) ---------- */
+
+.filter-control {
+  position: relative;
+}
+
+.filter-toggle {
+  appearance: none;
+  border: 1px solid var(--surface-border);
+  background: var(--surface);
+  border-radius: 6px;
+  padding: 7px 12px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink-secondary);
+  cursor: pointer;
+}
+
+.filter-toggle:hover {
+  color: var(--ink-primary);
+  border-color: var(--ink-muted);
+}
+
+.filter-dropdown {
+  display: none;
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  width: 440px;
+  max-width: calc(100vw - 40px);
+  background: var(--surface);
+  border: 1px solid var(--surface-border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 10px;
+  /* Leaflet's own panes/controls/popups run up to ~1000 internally; this
+     needs to clear all of that, not just the app's own base z-index scale,
+     or it renders behind the map once the Map tab is active. */
+  z-index: 5000;
+}
+
+.filter-dropdown.open {
+  display: block;
+}
+
+.filter-dropdown__actions {
+  display: flex;
+  gap: 8px;
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+  border-bottom: 1px solid var(--grid);
+}
+
+.filter-dropdown__actions button {
+  appearance: none;
+  border: 1px solid var(--surface-border);
+  background: var(--surface-alt);
+  border-radius: 100px;
+  padding: 3px 10px;
+  font-size: 12px;
+  color: var(--ink-secondary);
+  cursor: pointer;
+}
+
+.filter-dropdown__actions button:hover {
+  color: var(--ink-primary);
+  border-color: var(--ink-muted);
+}
+
+.filter-dropdown__list {
+  max-height: 420px;
+  overflow-y: auto;
+}
+
+.filter-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 7px;
+  padding: 4px 2px;
+  font-size: 12.5px;
+  color: var(--ink-secondary);
+}
+
+.filter-row--cluster {
+  padding-left: 30px;
+  font-size: 12px;
+  color: var(--ink-muted);
+}
+
+.filter-row__expand {
+  appearance: none;
+  border: none;
+  background: none;
+  padding: 0;
+  width: 14px;
+  flex: none;
+  font-size: 10px;
+  color: var(--ink-muted);
+  cursor: pointer;
+}
+
+.filter-row__swatch {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  flex: none;
+}
+
+.filter-row__label {
+  flex: 1 1 auto;
+  min-width: 0;
+  white-space: normal;
+  word-break: break-word;
+  line-height: 1.35;
+  padding-top: 1px;
+}
+
+.filter-row--species .filter-row__label {
+  color: var(--ink-primary);
+  font-weight: 500;
+}
+
+.filter-row__count {
+  flex: none;
+  font-size: 11px;
+  color: var(--ink-muted);
+  white-space: nowrap;
+  padding-top: 1px;
+}
+
+.filter-row input[type="checkbox"],
+.filter-row__swatch {
+  margin-top: 2px;
+}
+
+.filter-row__children {
+  margin-bottom: 2px;
+}
+
+/* ---------- Tooltip (shared) ---------- */
+
+.viz-tooltip {
+  position: fixed;
+  z-index: 1000;
+  pointer-events: none;
+  background: #1a1d21;
+  color: #f3f5f7;
+  font-size: 12px;
+  line-height: 1.5;
+  padding: 8px 10px;
+  border-radius: 6px;
+  box-shadow: var(--shadow);
+  max-width: 280px;
+  opacity: 0;
+  transition: opacity 0.08s ease;
+}
+
+.viz-tooltip.visible {
+  opacity: 1;
+}
+
+.viz-tooltip strong {
+  color: #fff;
+}
+
+.viz-tooltip .tt-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.viz-tooltip .tt-row + .tt-row {
+  margin-top: 2px;
+}
+
+/* ---------- Badges ---------- */
+
+.badge {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 1px 7px;
+  border-radius: 100px;
+  line-height: 1.6;
+}
+
+.badge--tier1 {
+  background: #e7f0e9;
+  color: #1e6b3a;
+}
+
+.badge--tier2 {
+  background: #f2f0e4;
+  color: #8a6d1d;
+}
+
+.badge--tier2-unconfirmed {
+  background: #f4e9e9;
+  color: #a3402f;
+}
+
+.badge--rep {
+  background: #dfeaf5;
+  color: var(--accent);
+}
+
+/* ---------- Tree: layout (overview + cluster detail panel) ---------- */
+
+.tree-layout {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+}
+
+.tree-main {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+#tree-container {
+  /* Fixed viewport: navigation is d3-zoom pan/zoom, not page scrolling. */
+  height: 720px;
+  overflow: hidden;
+  border: 1px solid var(--grid);
+  border-radius: 6px;
+}
+
+.tree-toolbar {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.tree-toolbar__btn {
+  appearance: none;
+  border: 1px solid var(--surface-border);
+  background: var(--surface);
+  border-radius: 6px;
+  padding: 5px 12px;
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--ink-secondary);
+  cursor: pointer;
+}
+
+.tree-toolbar__btn:hover {
+  color: var(--ink-primary);
+  border-color: var(--ink-muted);
+}
+
+/* ---------- Tree: radial overview (tree.js) ---------- */
+
+/* Sizes of dots/labels are set in JS in screen pixels (counter-scaled
+   against zoom); strokes use non-scaling-stroke for the same reason. */
+#tree-svg {
+  cursor: grab;
+}
+
+#tree-svg:active {
+  cursor: grabbing;
+}
+
+#tree-svg .link {
+  fill: none;
+  stroke: var(--grid);
+  stroke-width: 1px;
+  vector-effect: non-scaling-stroke;
+}
+
+#tree-svg .species-node {
+  stroke: #fff;
+  stroke-width: 1px;
+  vector-effect: non-scaling-stroke;
+}
+
+#tree-svg .species-arc {
+  opacity: 0.85;
+}
+
+#tree-svg .cluster-node {
+  cursor: pointer;
+}
+
+#tree-svg .cluster-node__hit {
+  fill: transparent;
+}
+
+#tree-svg .cluster-node__dot {
+  fill: #fff;
+  stroke-width: 1.4px;
+  vector-effect: non-scaling-stroke;
+}
+
+#tree-svg .cluster-node--tier2 .cluster-node__dot {
+  stroke-dasharray: 2 1.5;
+}
+
+#tree-svg .cluster-node:hover .cluster-node__dot {
+  stroke-width: 2.5px;
+}
+
+#tree-svg .cluster-node.is-selected .cluster-node__dot {
+  stroke: #d1381f;
+  stroke-width: 2.5px;
+  stroke-dasharray: none;
+}
+
+#tree-svg .species-label text {
+  font-size: 12.5px;
+  font-weight: 600;
+  fill: var(--ink-primary);
+  cursor: default;
+}
+
+#tree-svg .species-label__leader {
+  stroke: #b9c0c7;
+  stroke-width: 1px;
+}
+
+/* ---------- Tree: cluster detail panel (clusterDetail.js) ---------- */
+
+.cluster-detail {
+  flex: 0 0 470px;
+  height: 758px; /* toolbar row + #tree-container */
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--grid);
+  border-radius: 6px;
+  padding: 12px 14px;
+  background: var(--surface);
+  min-width: 0;
+}
+
+.cluster-detail[hidden] {
+  display: none;
+}
+
+.cluster-detail__bar {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 8px;
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+  border-bottom: 1px solid var(--grid);
+}
+
+.cluster-detail__summary {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.cluster-detail__summary-text {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-secondary);
+}
+
+.cluster-detail__hint {
+  font-size: 11.5px;
+  color: var(--ink-muted);
+}
+
+/* Cards: one per shown cluster. A single card fills the panel (as before
+   pinning existed); with several, the list scrolls and each tree is capped. */
+.cluster-detail__cards {
+  flex: 1 1 auto;
+  min-height: 120px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.cluster-detail.is-multi .cluster-detail__cards {
+  overflow-y: auto;
+  padding-right: 2px;
+}
+
+.cd-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+
+.cluster-detail:not(.is-multi) .cd-card {
+  flex: 1 1 auto;
+}
+
+.cluster-detail.is-multi .cd-card {
+  flex: none;
+  border: 1px solid var(--grid);
+  border-radius: 6px;
+  padding: 8px 10px;
+}
+
+.cluster-detail.is-multi .cd-card.is-pinned {
+  border-color: #c9d0d6;
+}
+
+.cluster-detail.is-multi .cd-card.is-preview {
+  border-style: dashed;
+}
+
+.cd-card__head {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.cd-card__head > .cluster-badge {
+  margin-top: 1px;
+}
+
+.cd-card__titles {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.cd-card__tag {
+  margin-left: 8px;
+  font-size: 10.5px;
+  font-weight: 600;
+  color: var(--ink-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.cd-card__swatch {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 6px;
+  vertical-align: -1px;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15);
+}
+
+.cd-card__actions {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  flex: none;
+}
+
+.cd-pin {
+  appearance: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font: inherit;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ink-secondary);
+  background: var(--surface);
+  border: 1px solid var(--surface-border);
+  border-radius: 999px;
+  padding: 3px 10px 3px 8px;
+  cursor: pointer;
+}
+
+.cd-pin svg {
+  width: 12px;
+  height: 12px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.3;
+  stroke-linejoin: round;
+}
+
+.cd-pin:hover:not(:disabled) {
+  border-color: var(--ink-muted);
+  color: var(--ink-primary);
+}
+
+.cd-pin.is-on {
+  background: var(--ink-primary);
+  border-color: var(--ink-primary);
+  color: #fff;
+}
+
+.cd-pin.is-on svg {
+  fill: currentColor;
+}
+
+.cd-pin.is-on:hover {
+  background: #3a4048;
+}
+
+.cd-pin:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.cd-icon-btn {
+  appearance: none;
+  border: none;
+  background: none;
+  width: 24px;
+  height: 24px;
+  font-size: 13px;
+  line-height: 1;
+  color: var(--ink-secondary);
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.cd-icon-btn--close {
+  font-size: 18px;
+}
+
+.cd-icon-btn:hover {
+  background: var(--surface-alt);
+  color: var(--ink-primary);
+}
+
+.cd-pin:focus-visible,
+.cd-icon-btn:focus-visible,
+.selection-banner__clear-all:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.cd-card__tree {
+  flex: 1 1 auto;
+  min-height: 120px;
+  overflow: auto;
+  border: 1px solid var(--grid);
+  border-radius: 6px;
+}
+
+.cluster-detail.is-multi .cd-card__tree {
+  flex: none;
+  max-height: 230px;
+  min-height: 0;
+}
+
+.cd-card.is-collapsed .cd-card__tree,
+.cd-card.is-collapsed .cluster-detail__label {
+  display: none;
+}
+
+/* Comparison number badge — the one thing that tells compared clusters
+   apart (colour already means species). HTML version + SVG version. */
+.cluster-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--ink-primary);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+}
+
+.svg-badge__disc {
+  fill: var(--ink-primary);
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.svg-badge__text {
+  fill: #fff;
+  font-size: 10.5px;
+  font-weight: 700;
+  text-anchor: middle;
+}
+
+#tree-svg .tree-badges {
+  pointer-events: none;
+}
+
+/* Numbered Leaflet markers (detail mini map + main map overlays). */
+.map-badge-icon {
+  background: none;
+  border: none;
+}
+
+.map-badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+  border-radius: 50%;
+  border: 2px solid;
+  background: #fff;
+  color: var(--ink-primary);
+  font: 700 10px/1 system-ui, -apple-system, "Segoe UI", sans-serif;
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.8);
+}
+
+.map-badge.is-rep {
+  border-width: 3.5px;
+}
+
+.cluster-detail__band-rule {
+  stroke: var(--grid);
+  stroke-dasharray: 2 3;
+}
+
+.cluster-detail__title {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.cluster-detail__species {
+  font-size: 13px;
+  font-weight: 600;
+  margin-top: 1px;
+}
+
+.cluster-detail__meta {
+  font-size: 12px;
+  color: var(--ink-muted);
+  margin-top: 3px;
+}
+
+.cluster-detail__close {
+  appearance: none;
+  border: none;
+  background: none;
+  font-size: 20px;
+  line-height: 1;
+  color: var(--ink-secondary);
+  cursor: pointer;
+  padding: 0 2px;
+}
+
+.cluster-detail__close:hover {
+  color: var(--ink-primary);
+}
+
+.cluster-detail__label {
+  font-size: 10.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-muted);
+  margin: 6px 0 5px;
+}
+
+.cluster-detail__label span {
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.cluster-detail__grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-top: 4px;
+}
+
+.cluster-detail__map,
+.cluster-detail__timeline,
+.cluster-detail__empty {
+  height: 190px;
+  border: 1px solid var(--grid);
+  border-radius: 6px;
+}
+
+.cluster-detail__timeline {
+  width: 100%;
+  display: block;
+}
+
+.cluster-detail__axis {
+  stroke: var(--grid);
+}
+
+.cluster-detail__axis-text {
+  font-size: 10.5px;
+  fill: var(--ink-muted);
+}
+
+.cluster-detail__dot {
+  stroke: #fff;
+  stroke-width: 0.8;
+}
+
+.cluster-detail__empty {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 12px;
+  color: var(--ink-muted);
+  border-style: dashed;
+  padding: 0 10px;
+}
+
+.cluster-detail__empty[hidden] {
+  display: none;
+}
+
+/* Rectangular dendrogram inside the panel */
+.detail-tree__links,
+.detail-tree__links path {
+  fill: none;
+  stroke: #9aa3ac;
+  stroke-width: 1.2px;
+}
+
+.detail-tree__axis text {
+  font-size: 10px;
+  fill: var(--ink-muted);
+}
+
+.detail-tree__axis path,
+.detail-tree__axis line {
+  stroke: var(--grid);
+}
+
+.detail-tree__axis-title {
+  font-size: 10px;
+  fill: var(--ink-muted);
+}
+
+.detail-row {
+  cursor: pointer;
+}
+
+.detail-row__bg {
+  fill: transparent;
+}
+
+.detail-row:hover .detail-row__bg {
+  fill: #f1f4f7;
+}
+
+.detail-row.is-selected .detail-row__bg {
+  fill: #fdece8;
+}
+
+.detail-row circle {
+  stroke-width: 1.5px;
+}
+
+.detail-row circle.is-tier2 {
+  stroke-dasharray: 2 1.5;
+}
+
+.detail-row text {
+  font-size: 12px;
+}
+
+.detail-row__acc {
+  fill: var(--ink-primary);
+}
+
+.detail-row.is-selected .detail-row__acc {
+  font-weight: 700;
+}
+
+.detail-row__strain {
+  fill: var(--ink-muted);
+}
+
+.detail-row__stack {
+  fill: #fff;
+  stroke: #8a939c;
+}
+
+.detail-row__group {
+  fill: var(--ink-secondary);
+  font-weight: 600;
+}
+
+/* "identical genomes" group row: the whole row toggles; the triangle
+   (▸ closed / ▾ open) is the only cue — no "show/hide" words. */
+.detail-row__toggle {
+  fill: var(--accent);
+}
+
+.detail-row--group:hover .detail-row__toggle {
+  fill: var(--ink-primary);
+}
+
+.detail-row--group.is-open .detail-row__bg,
+.detail-row.is-member .detail-row__bg {
+  fill: #f6f8fa;
+}
+
+.detail-row--group.is-open:hover .detail-row__bg,
+.detail-row.is-member:hover .detail-row__bg {
+  fill: #eef2f5;
+}
+
+.detail-row.is-member.is-selected .detail-row__bg {
+  fill: #fdece8;
+}
+
+/* ANI-tree label row with the card's Expand all / Collapse all. */
+.cd-card__label {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.cd-groupctl {
+  display: inline-flex;
+  gap: 2px;
+  flex: none;
+}
+
+.cd-groupctl[hidden] {
+  display: none;
+}
+
+.cd-groupctl button {
+  appearance: none;
+  border: none;
+  background: none;
+  font: inherit;
+  font-size: 11.5px;
+  font-weight: 600;
+  text-transform: none;
+  letter-spacing: 0;
+  color: var(--accent);
+  cursor: pointer;
+  padding: 1px 5px;
+  border-radius: 4px;
+}
+
+.cd-groupctl button:hover:not(:disabled) {
+  background: #eef5fa;
+}
+
+.cd-groupctl button:disabled {
+  color: var(--ink-muted);
+  opacity: 0.6;
+  cursor: default;
+}
+
+.cd-groupctl button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+/* Narrow screens: panel goes below the overview. */
+@media (max-width: 1100px) {
+  .tree-layout {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .cluster-detail {
+    flex: none;
+    height: auto;
+  }
+  .cd-card__tree {
+    max-height: 420px;
+  }
+}
+
+/* ---------- Map ---------- */
+
+#map {
+  height: 560px;
+  border-radius: 6px;
+  border: 1px solid var(--grid);
+}
+
+/* ---------- Timeline ---------- */
+
+#timeline-svg .bar {
+  cursor: pointer;
+}
+
+#timeline-svg .axis path,
+#timeline-svg .axis line {
+  stroke: var(--grid);
+}
+
+#timeline-svg .axis text {
+  fill: var(--ink-secondary);
+  font-size: 11px;
+}
+
+/* ---------- Summary statistics ---------- */
+
+.stats-tiles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 28px;
+}
+
+.stats-tile {
+  flex: 1 1 140px;
+  min-width: 140px;
+  border: 1px solid var(--grid);
+  border-radius: 8px;
+  padding: 14px 16px;
+  background: #fafbfc;
+}
+
+.stats-tile__value {
+  font-size: 26px;
+  font-weight: 700;
+  color: var(--ink-primary);
+  font-variant-numeric: tabular-nums;
+}
+
+.stats-tile__label {
+  font-size: 12px;
+  color: var(--ink-muted);
+  margin-top: 2px;
+}
+
+.stats-chart {
+  margin-bottom: 32px;
+}
+
+.stats-chart__title {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--ink-primary);
+  margin: 0 0 10px;
+}
+
+.stats-chart__empty {
+  font-size: 12.5px;
+  color: var(--ink-muted);
+}
+
+#stats-container .axis path,
+#stats-container .axis line {
+  stroke: var(--grid);
+}
+
+#stats-container .axis text {
+  fill: var(--ink-secondary);
+  font-size: 11.5px;
+}
+
+#stats-container .bar {
+  cursor: default;
+}
+
+.heatmap-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+}
+
+.heatmap-tile {
+  border: 1px solid var(--grid);
+  border-radius: 8px;
+  padding: 10px 12px 8px;
+  background: #fafbfc;
+}
+
+.heatmap-tile__title {
+  font-size: 12px;
+  font-weight: 700;
+  margin-bottom: 4px;
+  white-space: nowrap;
+}
+
+.heatmap-tile .cell {
+  cursor: default;
+}
+
+.heatmap-tile .row-label,
+.heatmap-tile .col-label {
+  font-size: 9px;
+  fill: var(--ink-muted);
+}
+
+/* ---------- Table ---------- */
+
+#table-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 18px;
+  padding-bottom: 12px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid var(--grid);
+}
+
+.table-filter {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  color: var(--ink-secondary);
+}
+
+.table-filter select {
+  font-size: 12px;
+  padding: 3px 6px;
+  border: 1px solid var(--surface-border);
+  border-radius: 4px;
+  background: var(--surface);
+  max-width: 220px;
+}
+
+#genome-table_wrapper {
+  font-size: 13px;
+}
+
+table.dataTable tbody tr.selected-row {
+  background-color: #eef5fa !important;
+}
+
+table.dataTable tbody tr {
+  cursor: pointer;
+}
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 720px) {
+  .app-header,
+  main {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .panel {
+    padding: 12px;
+  }
+
+  #map {
+    height: 420px;
+  }
+}
+
+/* ---------- Shared colour legend (header, all tabs) ---------- */
+
+.color-legend {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 16px;
+  margin-top: 10px;
+  font-size: 12.5px;
+  color: var(--ink-secondary);
+}
+
+.color-legend__title {
+  font-weight: 600;
+  color: var(--ink-primary);
+}
+
+.color-legend__item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+}
+
+.color-legend__swatch {
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  flex: none;
+}
+
+
+.color-legend__species {
+  font-style: italic;
+}
+
+.color-legend__shades {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 4px 10px;
+  margin-left: 2px;
+  font-size: 11.5px;
+  color: var(--ink-muted);
+}
+
+.color-legend__shade {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+/* When the lab credit wraps under the title, start it flush left. */
+@media (max-width: 1000px) {
+  .lab:first-child {
+    padding-left: 0;
+  }
+  .lab:first-child::before {
+    left: 0;
+  }
+}

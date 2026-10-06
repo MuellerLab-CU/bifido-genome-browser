@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Bifidobacterium Probiotics Genome Browser</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.8/css/jquery.dataTables.min.css" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-top">
+      <h1 class="header-title"><em>Bifidobacterium</em> Probiotics Genome Browser</h1>
+      <div class="labs" role="group" aria-label="Mueller Lab, University of Colorado Anschutz Medical Campus; Olm Lab, University of Colorado Boulder">
+        <div class="lab">
+          <span class="lab__name">Mueller Lab</span>
+          <span class="lab__univ">University of Colorado</span>
+          <span class="lab__campus">Anschutz Medical Campus</span>
+        </div>
+        <div class="lab">
+          <span class="lab__name">Olm Lab</span>
+          <span class="lab__univ">University of Colorado</span>
+          <span class="lab__campus">Boulder</span>
+        </div>
+      </div>
+    </div>
+    <!-- Front Range ridgeline: both campuses sit against these mountains. Decorative only. -->
+    <svg class="header-ridge" viewBox="0 0 1200 28" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M0 28 L0 21 L60 19 L110 14 L150 17 L190 9 L215 13 L240 6 L270 12 L300 10 L340 15 L390 11 L430 16 L470 13 L520 18 L560 12 L600 15 L640 8 L665 12 L700 4 L730 10 L760 7 L800 13 L850 11 L900 16 L950 12 L1000 17 L1050 14 L1100 18 L1150 16 L1200 19 L1200 28 Z" />
+    </svg>
+    <div class="header-controls">
+      <nav class="tab-bar">
+        <button class="tab-button active" data-panel="panel-tree" type="button">Tree</button>
+        <button class="tab-button" data-panel="panel-map" type="button">Map</button>
+        <button class="tab-button" data-panel="panel-timeline" type="button">Timeline</button>
+        <button class="tab-button" data-panel="panel-table" type="button">Table</button>
+        <button class="tab-button" data-panel="panel-stats" type="button">Summary</button>
+      </nav>
+
+      <div class="filter-control">
+        <button id="filter-toggle" class="filter-toggle" type="button">
+          <span id="filter-toggle-label">All species/clusters shown</span> ▾
+        </button>
+        <div id="filter-dropdown" class="filter-dropdown">
+          <div class="filter-dropdown__actions">
+            <button id="filter-select-all" type="button">Select all</button>
+            <button id="filter-select-none" type="button">Select none</button>
+          </div>
+          <div id="filter-list" class="filter-dropdown__list"></div>
+        </div>
+      </div>
+    </div>
+    <div id="color-legend" class="color-legend" aria-label="Colour legend"></div>
+  </header>
+
+  <div id="selection-banner" hidden></div>
+
+  <main>
+    <section id="panel-tree" class="panel active">
+      <div class="panel__header">
+        <h2 class="panel__title">ANI dendrogram</h2>
+        <div class="tier-legend" aria-label="Tier and cluster representative legend">
+          <span class="tier-legend__item">
+            <svg class="tier-legend__icon" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6" /></svg>
+            Tier1
+          </span>
+          <span class="tier-legend__item">
+            <svg class="tier-legend__icon" viewBox="0 0 16 16" aria-hidden="true"><circle class="tier-legend__dashed" cx="8" cy="8" r="6" /></svg>
+            Tier2
+          </span>
+          <span class="tier-legend__item">
+            <svg class="tier-legend__icon" viewBox="0 0 16 16" aria-hidden="true"><circle class="tier-legend__filled" cx="8" cy="8" r="6" /></svg>
+            Cluster rep
+          </span>
+        </div>
+        <span class="panel__hint">Each dot on the ring is a dRep cluster, grouped by species/subspecies. Click a cluster to see its genomes, ANI tree, origins and submission years; pin clusters (or shift-click) to compare up to 4. Scroll or use +/− to zoom.</span>
+      </div>
+      <div class="tree-layout">
+        <div class="tree-main">
+          <div id="tree-toolbar" class="tree-toolbar">
+            <button id="tree-zoom-in" class="tree-toolbar__btn" type="button" title="Zoom in">+</button>
+            <button id="tree-zoom-out" class="tree-toolbar__btn" type="button" title="Zoom out">−</button>
+            <button id="tree-zoom-reset" class="tree-toolbar__btn" type="button" title="Reset view">Reset view</button>
+          </div>
+          <div id="tree-container"></div>
+        </div>
+
+        <aside id="cluster-detail" class="cluster-detail" hidden>
+          <div class="cluster-detail__bar">
+            <div id="cluster-detail-summary" class="cluster-detail__summary"></div>
+            <button id="cluster-detail-close" class="cluster-detail__close" type="button" aria-label="Close panel and unpin all clusters" title="Close panel and unpin all clusters">&times;</button>
+          </div>
+          <div id="cluster-detail-cards" class="cluster-detail__cards"></div>
+          <div class="cluster-detail__grid">
+            <div>
+              <div class="cluster-detail__label">Geographic origin</div>
+              <div id="cluster-detail-map" class="cluster-detail__map"></div>
+              <p id="cluster-detail-map-empty" class="cluster-detail__empty" hidden>No resolved location for this cluster's genomes.</p>
+            </div>
+            <div>
+              <div class="cluster-detail__label">Submission year</div>
+              <svg id="cluster-detail-timeline" class="cluster-detail__timeline"></svg>
+              <p id="cluster-detail-timeline-empty" class="cluster-detail__empty" hidden>No dated genomes in this cluster.</p>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section id="panel-map" class="panel">
+      <div class="panel__header">
+        <h2 class="panel__title">Geographic origins</h2>
+        <span class="panel__hint">Filled = cluster representative, open = non-rep. Use the species/clusters control above to filter.</span>
+      </div>
+      <div id="map"></div>
+    </section>
+
+    <section id="panel-timeline" class="panel">
+      <div class="panel__header">
+        <h2 class="panel__title">Submission timeline</h2>
+        <span class="panel__hint">Use the species/clusters control above to filter.</span>
+      </div>
+      <div id="timeline-container"></div>
+    </section>
+
+    <section id="panel-table" class="panel">
+      <div class="panel__header">
+        <h2 class="panel__title">Genome table</h2>
+        <span class="panel__hint">Click a row to select it across all panels.</span>
+      </div>
+      <div id="table-filters"></div>
+      <table id="genome-table" class="display" style="width:100%"></table>
+    </section>
+
+    <section id="panel-stats" class="panel">
+      <div class="panel__header">
+        <h2 class="panel__title">Summary statistics</h2>
+        <div class="stats-species-picker">
+          <button id="stats-species-toggle" class="filter-toggle" type="button">
+            <span id="stats-species-toggle-label">All species/subspecies</span> ▾
+          </button>
+          <div id="stats-species-dropdown" class="filter-dropdown">
+            <div class="filter-dropdown__actions">
+              <button id="stats-species-clear" type="button">Show all</button>
+            </div>
+            <div id="stats-species-list" class="filter-dropdown__list"></div>
+          </div>
+        </div>
+        <span class="panel__hint">Also respects the species/clusters control above. Pick up to 8 species/subspecies to compare directly.</span>
+      </div>
+      <div id="stats-container"></div>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <span class="app-footer__credit">Mueller Lab, University of Colorado Anschutz Medical Campus</span>
+    <span class="app-footer__credit">Olm Lab, University of Colorado Boulder</span>
+    <span class="app-footer__right">
+      <span class="app-footer__data">Genome data: NCBI · Clustering: dRep · Basemap: UN Geospatial</span>
+      <!-- Bump when the data or site is updated. -->
+      <span class="app-footer__version">Version: 2026-09</span>
+    </span>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.8/js/jquery.dataTables.min.js"></script>
+
+  <script type="module">
+    import { loadData, initTabs, initSelectionBanner, initFilterControl, initColorLegend } from "./js/main.js";
+    import { renderTree } from "./js/tree.js";
+    import { renderMap } from "./js/map.js";
+    import { renderTimeline } from "./js/timeline.js";
+    import { renderTable } from "./js/table.js";
+    import { initClusterDetail } from "./js/clusterDetail.js";
+    import { renderStats } from "./js/stats.js";
+
+    (async () => {
+      initTabs();
+      initColorLegend();
+      initSelectionBanner();
+      initClusterDetail();
+      await loadData();
+      initFilterControl();
+      renderTree();
+      renderMap();
+      renderTimeline();
+      renderTable();
+      renderStats();
+    })().catch((err) => {
+      console.error("Failed to initialize genome browser:", err);
+    });
+  </script>
+</body>
+</html>

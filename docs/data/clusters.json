@@ -1,0 +1,6247 @@
+[
+  {
+    "cluster_id": "10_1",
+    "rep_accession": "GCF_000738005.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium crudilactis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium crudilactis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_000738005.1"
+    ]
+  },
+  {
+    "cluster_id": "10_2",
+    "rep_accession": "GCF_061326055.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium crudilactis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium crudilactis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_061326055.1"
+    ]
+  },
+  {
+    "cluster_id": "11_1",
+    "rep_accession": "GCF_009371885.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium tibiigranuli",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium tibiigranuli",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_009371875.1",
+      "GCF_009371885.1"
+    ]
+  },
+  {
+    "cluster_id": "12_1",
+    "rep_accession": "GCF_060804025.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium fermentum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium fermentum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_041080835.1",
+      "GCF_060804025.1"
+    ]
+  },
+  {
+    "cluster_id": "13_0",
+    "rep_accession": "GCF_000173375.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium gallicum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium gallicum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_000173375.1"
+    ]
+  },
+  {
+    "cluster_id": "14_0",
+    "rep_accession": "GCF_000304215.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium asteroides",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium asteroides",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_000304215.1"
+    ]
+  },
+  {
+    "cluster_id": "15_0",
+    "rep_accession": "GCF_000737865.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium coryneforme",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium coryneforme",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_000737865.1"
+    ]
+  },
+  {
+    "cluster_id": "16_0",
+    "rep_accession": "GCF_001042635.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium scardovii",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium scardovii",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001042635.1"
+    ]
+  },
+  {
+    "cluster_id": "17_0",
+    "rep_accession": "GCF_002761235.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium choerinum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium choerinum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_002761235.1"
+    ]
+  },
+  {
+    "cluster_id": "18_0",
+    "rep_accession": "GCF_002813205.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium psychraerophilum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium psychraerophilum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_002813205.1"
+    ]
+  },
+  {
+    "cluster_id": "19_0",
+    "rep_accession": "GCF_010667645.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium platyrrhinorum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium platyrrhinorum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_010667645.1"
+    ]
+  },
+  {
+    "cluster_id": "1_1",
+    "rep_accession": "GCF_040150815.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_040150815.1"
+    ]
+  },
+  {
+    "cluster_id": "1_10",
+    "rep_accession": "GCF_002838565.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_002838565.1"
+    ]
+  },
+  {
+    "cluster_id": "1_100",
+    "rep_accession": "GCF_001446275.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_001446275.1",
+      "GCF_017312585.1"
+    ]
+  },
+  {
+    "cluster_id": "1_101",
+    "rep_accession": "GCF_049205105.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_049205105.1"
+    ]
+  },
+  {
+    "cluster_id": "1_102",
+    "rep_accession": "GCF_033657725.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 4
+      }
+    ],
+    "member_count": 4,
+    "members": [
+      "GCF_033344515.1",
+      "GCF_033657725.1",
+      "GCF_033659185.1",
+      "GCF_033659505.1"
+    ]
+  },
+  {
+    "cluster_id": "1_103",
+    "rep_accession": "GCF_054189165.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      },
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_049191865.1",
+      "GCF_054189165.1"
+    ]
+  },
+  {
+    "cluster_id": "1_104",
+    "rep_accession": "GCF_033658565.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      },
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_004332825.1",
+      "GCF_004332935.1",
+      "GCF_033658565.1"
+    ]
+  },
+  {
+    "cluster_id": "1_105",
+    "rep_accession": "GCF_016648895.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 3
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 4,
+    "members": [
+      "GCF_016648895.1",
+      "GCF_033658485.1",
+      "GCF_033658785.1",
+      "GCF_033659445.1"
+    ]
+  },
+  {
+    "cluster_id": "1_106",
+    "rep_accession": "GCF_049205355.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_049205355.1"
+    ]
+  },
+  {
+    "cluster_id": "1_107",
+    "rep_accession": "GCF_040711965.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. suillum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. suillum",
+        "count": 1
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_013393765.1",
+      "GCF_040711965.1"
+    ]
+  },
+  {
+    "cluster_id": "1_108",
+    "rep_accession": "GCF_014334075.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 6
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 5
+      }
+    ],
+    "member_count": 11,
+    "members": [
+      "GCA_041447115.1",
+      "GCF_004333735.1",
+      "GCF_008086305.1",
+      "GCF_013249165.1",
+      "GCF_014334075.1",
+      "GCF_017312645.1",
+      "GCF_033658885.1",
+      "GCF_049191905.1",
+      "GCF_054075065.1",
+      "GCF_058268915.1",
+      "GCF_058268935.1"
+    ]
+  },
+  {
+    "cluster_id": "1_109",
+    "rep_accession": "GCF_033659125.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_033344575.1",
+      "GCF_033659125.1"
+    ]
+  },
+  {
+    "cluster_id": "1_11",
+    "rep_accession": "GCF_002838605.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 5
+      }
+    ],
+    "member_count": 5,
+    "members": [
+      "GCF_000569035.1",
+      "GCF_000569055.1",
+      "GCF_000569075.1",
+      "GCF_002838605.1",
+      "GCF_024665435.1"
+    ]
+  },
+  {
+    "cluster_id": "1_110",
+    "rep_accession": "GCF_049204995.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_049204995.1"
+    ]
+  },
+  {
+    "cluster_id": "1_111",
+    "rep_accession": "GCF_049205415.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_049205395.1",
+      "GCF_049205415.1"
+    ]
+  },
+  {
+    "cluster_id": "1_112",
+    "rep_accession": "GCA_045689215.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 5
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 6,
+    "members": [
+      "GCA_045689215.1",
+      "GCF_004125375.1",
+      "GCF_015100215.1",
+      "GCF_032463605.1",
+      "GCF_033658625.1",
+      "GCF_054901215.1"
+    ]
+  },
+  {
+    "cluster_id": "1_113",
+    "rep_accession": "GCF_040150975.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_040150975.1",
+      "GCF_040151115.1"
+    ]
+  },
+  {
+    "cluster_id": "1_114",
+    "rep_accession": "GCF_001719085.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 3
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 5,
+    "members": [
+      "GCF_000497735.1",
+      "GCF_001447955.1",
+      "GCF_001447975.1",
+      "GCF_001719085.1",
+      "GCF_003094975.1"
+    ]
+  },
+  {
+    "cluster_id": "1_115",
+    "rep_accession": "GCF_016838685.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_016838685.1"
+    ]
+  },
+  {
+    "cluster_id": "1_116",
+    "rep_accession": "GCF_004332865.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004332865.1"
+    ]
+  },
+  {
+    "cluster_id": "1_117",
+    "rep_accession": "GCF_028201535.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_028201535.1"
+    ]
+  },
+  {
+    "cluster_id": "1_118",
+    "rep_accession": "GCF_017312625.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004333215.1",
+      "GCF_017312625.1"
+    ]
+  },
+  {
+    "cluster_id": "1_119",
+    "rep_accession": "GCF_004333115.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333115.1"
+    ]
+  },
+  {
+    "cluster_id": "1_12",
+    "rep_accession": "GCF_001264035.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_001264035.1",
+      "GCF_001264155.1"
+    ]
+  },
+  {
+    "cluster_id": "1_120",
+    "rep_accession": "GCF_004333935.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 5
+      }
+    ],
+    "member_count": 5,
+    "members": [
+      "GCF_004333365.1",
+      "GCF_004333375.1",
+      "GCF_004333565.1",
+      "GCF_004333635.1",
+      "GCF_004333935.1"
+    ]
+  },
+  {
+    "cluster_id": "1_121",
+    "rep_accession": "GCF_004333465.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333465.1"
+    ]
+  },
+  {
+    "cluster_id": "1_122",
+    "rep_accession": "GCF_004333065.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 3
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_004333065.1",
+      "GCF_004333555.1",
+      "GCF_004333855.1"
+    ]
+  },
+  {
+    "cluster_id": "1_123",
+    "rep_accession": "GCF_004333475.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333475.1"
+    ]
+  },
+  {
+    "cluster_id": "1_124",
+    "rep_accession": "GCF_004333275.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004333275.1",
+      "GCF_004333325.1"
+    ]
+  },
+  {
+    "cluster_id": "1_125",
+    "rep_accession": "GCF_004333535.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333535.1"
+    ]
+  },
+  {
+    "cluster_id": "1_126",
+    "rep_accession": "GCF_011764605.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_011764605.1"
+    ]
+  },
+  {
+    "cluster_id": "1_127",
+    "rep_accession": "GCF_004332635.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 3
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_004332635.1",
+      "GCF_004332655.1",
+      "GCF_004334235.1"
+    ]
+  },
+  {
+    "cluster_id": "1_128",
+    "rep_accession": "GCF_004333845.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333845.1"
+    ]
+  },
+  {
+    "cluster_id": "1_129",
+    "rep_accession": "GCF_033453085.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_033453085.1"
+    ]
+  },
+  {
+    "cluster_id": "1_13",
+    "rep_accession": "GCF_002838465.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 3
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_001685725.1",
+      "GCF_002838465.1",
+      "GCF_002838545.1"
+    ]
+  },
+  {
+    "cluster_id": "1_130",
+    "rep_accession": "GCF_040267655.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      },
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_003094995.1",
+      "GCF_040267655.1"
+    ]
+  },
+  {
+    "cluster_id": "1_131",
+    "rep_accession": "GCF_000219455.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_000219455.1",
+      "GCF_014779835.1"
+    ]
+  },
+  {
+    "cluster_id": "1_132",
+    "rep_accession": "GCF_000829295.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_000829295.1",
+      "GCF_004333455.1"
+    ]
+  },
+  {
+    "cluster_id": "1_133",
+    "rep_accession": "GCF_004333305.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004333125.1",
+      "GCF_004333305.1"
+    ]
+  },
+  {
+    "cluster_id": "1_134",
+    "rep_accession": "GCF_003990235.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_003790375.1",
+      "GCF_003990235.1"
+    ]
+  },
+  {
+    "cluster_id": "1_135",
+    "rep_accession": "GCF_003342655.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_003342655.1"
+    ]
+  },
+  {
+    "cluster_id": "1_136",
+    "rep_accession": "GCF_000196555.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 4
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 4
+      }
+    ],
+    "member_count": 8,
+    "members": [
+      "GCA_045689135.1",
+      "GCA_045689195.1",
+      "GCF_000196555.1",
+      "GCF_000478525.1",
+      "GCF_017132775.1",
+      "GCF_021184065.1",
+      "GCF_051906175.1",
+      "GCF_900104835.1"
+    ]
+  },
+  {
+    "cluster_id": "1_137",
+    "rep_accession": "GCF_054130475.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      },
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_017312505.1",
+      "GCF_054130475.1"
+    ]
+  },
+  {
+    "cluster_id": "1_138",
+    "rep_accession": "GCF_001686145.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001686145.1"
+    ]
+  },
+  {
+    "cluster_id": "1_139",
+    "rep_accession": "GCF_004334545.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004334545.1"
+    ]
+  },
+  {
+    "cluster_id": "1_14",
+    "rep_accession": "GCF_001685805.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_001685805.1",
+      "GCF_049204755.1"
+    ]
+  },
+  {
+    "cluster_id": "1_140",
+    "rep_accession": "GCF_004334465.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004332765.1",
+      "GCF_004334465.1"
+    ]
+  },
+  {
+    "cluster_id": "1_141",
+    "rep_accession": "GCF_004334485.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004334485.1"
+    ]
+  },
+  {
+    "cluster_id": "1_142",
+    "rep_accession": "GCF_004334065.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004334065.1"
+    ]
+  },
+  {
+    "cluster_id": "1_143",
+    "rep_accession": "GCF_004334865.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004334865.1"
+    ]
+  },
+  {
+    "cluster_id": "1_144",
+    "rep_accession": "GCF_004333045.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333045.1"
+    ]
+  },
+  {
+    "cluster_id": "1_145",
+    "rep_accession": "GCF_004333445.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333445.1"
+    ]
+  },
+  {
+    "cluster_id": "1_146",
+    "rep_accession": "GCF_004334075.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004334075.1"
+    ]
+  },
+  {
+    "cluster_id": "1_147",
+    "rep_accession": "GCF_004333975.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333975.1"
+    ]
+  },
+  {
+    "cluster_id": "1_148",
+    "rep_accession": "GCF_004333335.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333335.1"
+    ]
+  },
+  {
+    "cluster_id": "1_149",
+    "rep_accession": "GCF_004334635.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004334635.1"
+    ]
+  },
+  {
+    "cluster_id": "1_15",
+    "rep_accession": "GCF_002027265.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_000247755.1",
+      "GCF_002027265.1"
+    ]
+  },
+  {
+    "cluster_id": "1_150",
+    "rep_accession": "GCF_004334515.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004334355.1",
+      "GCF_004334515.1"
+    ]
+  },
+  {
+    "cluster_id": "1_151",
+    "rep_accession": "GCF_004333995.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333995.1"
+    ]
+  },
+  {
+    "cluster_id": "1_152",
+    "rep_accession": "GCF_004334045.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004334045.1"
+    ]
+  },
+  {
+    "cluster_id": "1_153",
+    "rep_accession": "GCF_004334715.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004334715.1"
+    ]
+  },
+  {
+    "cluster_id": "1_154",
+    "rep_accession": "GCF_060709155.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      },
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_001686225.1",
+      "GCF_060709155.1"
+    ]
+  },
+  {
+    "cluster_id": "1_155",
+    "rep_accession": "GCF_014898215.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004334815.1",
+      "GCF_014898215.1"
+    ]
+  },
+  {
+    "cluster_id": "1_156",
+    "rep_accession": "GCF_017312545.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004332665.1",
+      "GCF_017312545.1"
+    ]
+  },
+  {
+    "cluster_id": "1_157",
+    "rep_accession": "GCF_004332645.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004332645.1"
+    ]
+  },
+  {
+    "cluster_id": "1_158",
+    "rep_accession": "GCF_017743155.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_017743155.1",
+      "GCF_017743175.1"
+    ]
+  },
+  {
+    "cluster_id": "1_159",
+    "rep_accession": "GCF_004334645.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 3
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_004333785.1",
+      "GCF_004334645.1",
+      "GCF_004334795.1"
+    ]
+  },
+  {
+    "cluster_id": "1_16",
+    "rep_accession": "GCF_002914865.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_002914865.1",
+      "GCF_004802595.1"
+    ]
+  },
+  {
+    "cluster_id": "1_160",
+    "rep_accession": "GCF_004333695.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333695.1"
+    ]
+  },
+  {
+    "cluster_id": "1_161",
+    "rep_accession": "GCF_001051015.2",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. infantis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. infantis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001051015.2"
+    ]
+  },
+  {
+    "cluster_id": "1_162",
+    "rep_accession": "GCF_004333925.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333925.1"
+    ]
+  },
+  {
+    "cluster_id": "1_163",
+    "rep_accession": "GCF_033658265.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_033658265.1"
+    ]
+  },
+  {
+    "cluster_id": "1_164",
+    "rep_accession": "GCF_004334625.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004334105.1",
+      "GCF_004334625.1"
+    ]
+  },
+  {
+    "cluster_id": "1_165",
+    "rep_accession": "GCF_000003135.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_000003135.1",
+      "GCF_017312665.1"
+    ]
+  },
+  {
+    "cluster_id": "1_166",
+    "rep_accession": "GCF_004332925.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004332925.1",
+      "GCF_017312685.1"
+    ]
+  },
+  {
+    "cluster_id": "1_167",
+    "rep_accession": "GCF_017312525.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_017312525.1"
+    ]
+  },
+  {
+    "cluster_id": "1_168",
+    "rep_accession": "GCF_004332855.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004332855.1",
+      "GCF_004334205.1"
+    ]
+  },
+  {
+    "cluster_id": "1_169",
+    "rep_accession": "GCF_014334375.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_014334375.1"
+    ]
+  },
+  {
+    "cluster_id": "1_17",
+    "rep_accession": "GCF_036872545.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_036872545.1"
+    ]
+  },
+  {
+    "cluster_id": "1_170",
+    "rep_accession": "GCF_004334335.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004334335.1",
+      "GCF_004334695.1"
+    ]
+  },
+  {
+    "cluster_id": "1_171",
+    "rep_accession": "GCF_004333515.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333515.1"
+    ]
+  },
+  {
+    "cluster_id": "1_172",
+    "rep_accession": "GCF_004334255.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_001686245.1",
+      "GCF_004334255.1"
+    ]
+  },
+  {
+    "cluster_id": "1_173",
+    "rep_accession": "GCF_004333765.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333765.1"
+    ]
+  },
+  {
+    "cluster_id": "1_174",
+    "rep_accession": "GCF_000196575.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. infantis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. infantis",
+        "count": 1
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_000196575.1",
+      "GCF_004334775.1"
+    ]
+  },
+  {
+    "cluster_id": "1_175",
+    "rep_accession": "GCF_000772485.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      },
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 2
+      }
+    ],
+    "member_count": 4,
+    "members": [
+      "GCF_000772485.1",
+      "GCF_020072545.1",
+      "GCF_033391045.1",
+      "GCF_033659685.1"
+    ]
+  },
+  {
+    "cluster_id": "1_176",
+    "rep_accession": "GCF_015101725.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_015101725.1"
+    ]
+  },
+  {
+    "cluster_id": "1_177",
+    "rep_accession": "GCF_049191785.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_049191785.1"
+    ]
+  },
+  {
+    "cluster_id": "1_178",
+    "rep_accession": "GCF_049205375.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_049205375.1"
+    ]
+  },
+  {
+    "cluster_id": "1_179",
+    "rep_accession": "GCF_055383495.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 5
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 5
+      }
+    ],
+    "member_count": 10,
+    "members": [
+      "GCF_003094635.1",
+      "GCF_003094855.1",
+      "GCF_003094935.1",
+      "GCF_003094955.1",
+      "GCF_004333005.1",
+      "GCF_017291355.1",
+      "GCF_028898865.1",
+      "GCF_033170275.1",
+      "GCF_038022065.1",
+      "GCF_055383495.1"
+    ]
+  },
+  {
+    "cluster_id": "1_18",
+    "rep_accession": "GCF_049191465.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 3
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_000226175.1",
+      "GCF_049191465.1",
+      "GCF_049205315.1"
+    ]
+  },
+  {
+    "cluster_id": "1_180",
+    "rep_accession": "GCF_005406285.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 2
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_005406285.1",
+      "GCF_018409185.1",
+      "GCF_033659305.1"
+    ]
+  },
+  {
+    "cluster_id": "1_181",
+    "rep_accession": "GCF_026242105.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_026242105.1"
+    ]
+  },
+  {
+    "cluster_id": "1_182",
+    "rep_accession": "GCF_001293145.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 3
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_001293145.1",
+      "GCF_002075875.1",
+      "GCF_052784005.1"
+    ]
+  },
+  {
+    "cluster_id": "1_183",
+    "rep_accession": "GCF_004332945.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004332745.1",
+      "GCF_004332945.1"
+    ]
+  },
+  {
+    "cluster_id": "1_184",
+    "rep_accession": "GCF_033658525.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      },
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004334855.1",
+      "GCF_033658525.1"
+    ]
+  },
+  {
+    "cluster_id": "1_185",
+    "rep_accession": "GCF_004334245.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004334245.1",
+      "GCF_004334615.1"
+    ]
+  },
+  {
+    "cluster_id": "1_186",
+    "rep_accession": "GCF_004332735.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004332735.1",
+      "GCF_004333015.1"
+    ]
+  },
+  {
+    "cluster_id": "1_187",
+    "rep_accession": "GCF_000008945.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      },
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_000008945.1",
+      "GCF_004334005.1",
+      "GCF_004334535.1"
+    ]
+  },
+  {
+    "cluster_id": "1_188",
+    "rep_accession": "GCF_004333205.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333205.1"
+    ]
+  },
+  {
+    "cluster_id": "1_189",
+    "rep_accession": "GCF_004333775.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004333775.1",
+      "GCF_004334035.1"
+    ]
+  },
+  {
+    "cluster_id": "1_19",
+    "rep_accession": "GCF_000568955.2",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_000568955.2"
+    ]
+  },
+  {
+    "cluster_id": "1_190",
+    "rep_accession": "GCF_004333625.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004333625.1",
+      "GCF_004333875.1"
+    ]
+  },
+  {
+    "cluster_id": "1_191",
+    "rep_accession": "GCF_004333905.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333905.1"
+    ]
+  },
+  {
+    "cluster_id": "1_192",
+    "rep_accession": "GCF_004333175.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004333175.1",
+      "GCF_004334145.1"
+    ]
+  },
+  {
+    "cluster_id": "1_193",
+    "rep_accession": "GCF_004333265.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333265.1"
+    ]
+  },
+  {
+    "cluster_id": "1_194",
+    "rep_accession": "GCF_004333645.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333645.1"
+    ]
+  },
+  {
+    "cluster_id": "1_195",
+    "rep_accession": "GCF_004333895.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333895.1"
+    ]
+  },
+  {
+    "cluster_id": "1_196",
+    "rep_accession": "GCF_004332755.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004332755.1"
+    ]
+  },
+  {
+    "cluster_id": "1_197",
+    "rep_accession": "GCA_045689155.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 2
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCA_045689155.1",
+      "GCF_020008065.1",
+      "GCF_045287175.1"
+    ]
+  },
+  {
+    "cluster_id": "1_198",
+    "rep_accession": "GCF_004333795.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333795.1"
+    ]
+  },
+  {
+    "cluster_id": "1_199",
+    "rep_accession": "GCF_054960775.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_054960775.1"
+    ]
+  },
+  {
+    "cluster_id": "1_2",
+    "rep_accession": "GCF_040150935.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_040150935.1"
+    ]
+  },
+  {
+    "cluster_id": "1_20",
+    "rep_accession": "GCF_002838525.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_002838345.1",
+      "GCF_002838525.1"
+    ]
+  },
+  {
+    "cluster_id": "1_200",
+    "rep_accession": "GCF_060710085.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_060709595.1",
+      "GCF_060710085.1"
+    ]
+  },
+  {
+    "cluster_id": "1_201",
+    "rep_accession": "GCF_004334215.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 3
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_004334215.1",
+      "GCF_004334285.1",
+      "GCF_004334435.1"
+    ]
+  },
+  {
+    "cluster_id": "1_202",
+    "rep_accession": "GCF_004334445.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004333385.1",
+      "GCF_004334445.1"
+    ]
+  },
+  {
+    "cluster_id": "1_203",
+    "rep_accession": "GCF_004334155.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004334155.1"
+    ]
+  },
+  {
+    "cluster_id": "1_204",
+    "rep_accession": "GCF_045273095.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 2
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_000007525.1",
+      "GCF_030369575.1",
+      "GCF_045273095.1"
+    ]
+  },
+  {
+    "cluster_id": "1_205",
+    "rep_accession": "GCF_033659065.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 4
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 6,
+    "members": [
+      "GCF_018408965.1",
+      "GCF_018409165.1",
+      "GCF_033658965.1",
+      "GCF_033659065.1",
+      "GCF_033659205.1",
+      "GCF_033659345.1"
+    ]
+  },
+  {
+    "cluster_id": "1_206",
+    "rep_accession": "GCF_000155415.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. infantis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. infantis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_000155415.1"
+    ]
+  },
+  {
+    "cluster_id": "1_207",
+    "rep_accession": "GCF_060709645.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 3
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 4,
+    "members": [
+      "GCF_001686205.1",
+      "GCF_060709185.1",
+      "GCF_060709645.1",
+      "GCF_060710055.1"
+    ]
+  },
+  {
+    "cluster_id": "1_208",
+    "rep_accession": "GCF_004334705.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004334365.1",
+      "GCF_004334705.1"
+    ]
+  },
+  {
+    "cluster_id": "1_209",
+    "rep_accession": "GCF_004333165.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004333165.1",
+      "GCF_004334425.1"
+    ]
+  },
+  {
+    "cluster_id": "1_21",
+    "rep_accession": "GCF_000213865.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 3
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_000213865.1",
+      "GCF_049191355.1",
+      "GCF_049191365.1"
+    ]
+  },
+  {
+    "cluster_id": "1_210",
+    "rep_accession": "GCF_004333715.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004333715.1"
+    ]
+  },
+  {
+    "cluster_id": "1_211",
+    "rep_accession": "GCF_017312605.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 3
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_004332965.1",
+      "GCF_004334165.1",
+      "GCF_017312605.1"
+    ]
+  },
+  {
+    "cluster_id": "1_212",
+    "rep_accession": "GCF_004332625.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004332625.1"
+    ]
+  },
+  {
+    "cluster_id": "1_213",
+    "rep_accession": "GCF_004334345.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004334345.1"
+    ]
+  },
+  {
+    "cluster_id": "1_214",
+    "rep_accession": "GCF_033659225.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_033659225.1",
+      "GCF_033659625.1"
+    ]
+  },
+  {
+    "cluster_id": "1_215",
+    "rep_accession": "GCF_001446255.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 3
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 4,
+    "members": [
+      "GCF_001446255.1",
+      "GCF_002833115.1",
+      "GCF_033658745.1",
+      "GCF_033659565.1"
+    ]
+  },
+  {
+    "cluster_id": "1_216",
+    "rep_accession": "GCF_033659325.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_033659325.1"
+    ]
+  },
+  {
+    "cluster_id": "1_22",
+    "rep_accession": "GCF_013267755.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 4
+      }
+    ],
+    "member_count": 4,
+    "members": [
+      "GCF_004319685.1",
+      "GCF_013267755.1",
+      "GCF_049191505.1",
+      "GCF_054075105.1"
+    ]
+  },
+  {
+    "cluster_id": "1_23",
+    "rep_accession": "GCF_001263855.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_001263855.1",
+      "GCF_001264045.1"
+    ]
+  },
+  {
+    "cluster_id": "1_24",
+    "rep_accession": "GCF_053708875.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_053708875.1"
+    ]
+  },
+  {
+    "cluster_id": "1_25",
+    "rep_accession": "GCF_002838485.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_001264095.1",
+      "GCF_002838485.1"
+    ]
+  },
+  {
+    "cluster_id": "1_26",
+    "rep_accession": "GCF_047301025.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 3
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_000568975.1",
+      "GCF_001264135.1",
+      "GCF_047301025.1"
+    ]
+  },
+  {
+    "cluster_id": "1_27",
+    "rep_accession": "GCF_001263845.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001263845.1"
+    ]
+  },
+  {
+    "cluster_id": "1_28",
+    "rep_accession": "GCF_060711425.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 10
+      }
+    ],
+    "member_count": 10,
+    "members": [
+      "GCF_060677105.1",
+      "GCF_060710495.1",
+      "GCF_060710525.1",
+      "GCF_060710955.1",
+      "GCF_060710965.1",
+      "GCF_060711415.1",
+      "GCF_060711425.1",
+      "GCF_060711855.1",
+      "GCF_060711865.1",
+      "GCF_060712255.1"
+    ]
+  },
+  {
+    "cluster_id": "1_29",
+    "rep_accession": "GCF_001264105.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001264105.1"
+    ]
+  },
+  {
+    "cluster_id": "1_3",
+    "rep_accession": "GCF_040151035.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_040151035.1"
+    ]
+  },
+  {
+    "cluster_id": "1_30",
+    "rep_accession": "GCF_001685825.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001685825.1"
+    ]
+  },
+  {
+    "cluster_id": "1_31",
+    "rep_accession": "GCF_000569015.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_000569015.1"
+    ]
+  },
+  {
+    "cluster_id": "1_32",
+    "rep_accession": "GCF_001263935.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001263935.1"
+    ]
+  },
+  {
+    "cluster_id": "1_33",
+    "rep_accession": "GCF_001685745.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001685745.1"
+    ]
+  },
+  {
+    "cluster_id": "1_34",
+    "rep_accession": "GCF_003860285.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_003860285.1"
+    ]
+  },
+  {
+    "cluster_id": "1_35",
+    "rep_accession": "GCF_027696885.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_027696885.1"
+    ]
+  },
+  {
+    "cluster_id": "1_36",
+    "rep_accession": "GCF_033804565.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_033804565.1"
+    ]
+  },
+  {
+    "cluster_id": "1_37",
+    "rep_accession": "GCF_001685885.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001685885.1"
+    ]
+  },
+  {
+    "cluster_id": "1_38",
+    "rep_accession": "GCF_001685905.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001685905.1"
+    ]
+  },
+  {
+    "cluster_id": "1_39",
+    "rep_accession": "GCF_001263915.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001263915.1"
+    ]
+  },
+  {
+    "cluster_id": "1_4",
+    "rep_accession": "GCF_030414125.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_030414125.1"
+    ]
+  },
+  {
+    "cluster_id": "1_40",
+    "rep_accession": "GCF_001685865.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001685865.1"
+    ]
+  },
+  {
+    "cluster_id": "1_41",
+    "rep_accession": "GCF_001281425.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 4
+      }
+    ],
+    "member_count": 4,
+    "members": [
+      "GCF_001281425.1",
+      "GCF_016648955.1",
+      "GCF_016648985.1",
+      "GCF_049205255.1"
+    ]
+  },
+  {
+    "cluster_id": "1_42",
+    "rep_accession": "GCF_001990225.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001990225.1"
+    ]
+  },
+  {
+    "cluster_id": "1_43",
+    "rep_accession": "GCF_001685765.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001685765.1"
+    ]
+  },
+  {
+    "cluster_id": "1_44",
+    "rep_accession": "GCF_001685925.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001685925.1"
+    ]
+  },
+  {
+    "cluster_id": "1_45",
+    "rep_accession": "GCF_001685845.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001685845.1"
+    ]
+  },
+  {
+    "cluster_id": "1_46",
+    "rep_accession": "GCF_017299595.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. infantis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. infantis",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_017299595.1",
+      "GCF_017357365.1"
+    ]
+  },
+  {
+    "cluster_id": "1_47",
+    "rep_accession": "GCF_033658925.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_033658925.1"
+    ]
+  },
+  {
+    "cluster_id": "1_48",
+    "rep_accession": "GCF_015102215.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. infantis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. infantis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_015102215.1"
+    ]
+  },
+  {
+    "cluster_id": "1_49",
+    "rep_accession": "GCF_041320305.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. infantis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. infantis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_041320305.1"
+    ]
+  },
+  {
+    "cluster_id": "1_5",
+    "rep_accession": "GCF_030441965.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_030441965.1"
+    ]
+  },
+  {
+    "cluster_id": "1_50",
+    "rep_accession": "GCF_001281305.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. infantis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. infantis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001281305.1"
+    ]
+  },
+  {
+    "cluster_id": "1_51",
+    "rep_accession": "GCF_000269965.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. infantis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. infantis",
+        "count": 12
+      },
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 13,
+    "members": [
+      "GCA_045689185.1",
+      "GCF_000020425.1",
+      "GCF_000269965.1",
+      "GCF_000771105.1",
+      "GCF_000825065.1",
+      "GCF_000825085.1",
+      "GCF_000825105.1",
+      "GCF_000825125.1",
+      "GCF_000825145.1",
+      "GCF_019660445.1",
+      "GCF_046199715.1",
+      "GCF_051906195.1",
+      "GCF_902167885.1"
+    ]
+  },
+  {
+    "cluster_id": "1_52",
+    "rep_accession": "GCF_026967535.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. infantis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. infantis",
+        "count": 17
+      }
+    ],
+    "member_count": 17,
+    "members": [
+      "GCF_004919065.2",
+      "GCF_008868445.1",
+      "GCF_013204895.1",
+      "GCF_023205795.1",
+      "GCF_023205815.1",
+      "GCF_023205835.1",
+      "GCF_023208035.1",
+      "GCF_023208055.1",
+      "GCF_023208075.1",
+      "GCF_023208095.1",
+      "GCF_023208115.1",
+      "GCF_023208135.1",
+      "GCF_023208155.1",
+      "GCF_026967535.1",
+      "GCF_029983035.1",
+      "GCF_029983055.1",
+      "GCF_054075085.1"
+    ]
+  },
+  {
+    "cluster_id": "1_53",
+    "rep_accession": "GCF_023205855.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. infantis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. infantis",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_018140675.1",
+      "GCF_023205855.1"
+    ]
+  },
+  {
+    "cluster_id": "1_54",
+    "rep_accession": "GCF_055386685.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. infantis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. infantis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_055386685.1"
+    ]
+  },
+  {
+    "cluster_id": "1_55",
+    "rep_accession": "GCF_033657865.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 4
+      }
+    ],
+    "member_count": 4,
+    "members": [
+      "GCF_033657865.1",
+      "GCF_033657955.1",
+      "GCF_033659005.1",
+      "GCF_033659385.1"
+    ]
+  },
+  {
+    "cluster_id": "1_56",
+    "rep_accession": "GCF_033659145.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_033659145.1",
+      "GCF_033659545.1"
+    ]
+  },
+  {
+    "cluster_id": "1_57",
+    "rep_accession": "GCF_033658365.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 5
+      }
+    ],
+    "member_count": 5,
+    "members": [
+      "GCF_033344585.1",
+      "GCF_033658185.1",
+      "GCF_033658205.1",
+      "GCF_033658365.1",
+      "GCF_033659905.1"
+    ]
+  },
+  {
+    "cluster_id": "1_58",
+    "rep_accession": "GCA_045689145.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 8
+      }
+    ],
+    "member_count": 8,
+    "members": [
+      "GCA_045689145.1",
+      "GCF_033658025.1",
+      "GCF_033658845.1",
+      "GCF_033659265.1",
+      "GCF_033659745.1",
+      "GCF_033659825.1",
+      "GCF_033659845.1",
+      "GCF_045287105.1"
+    ]
+  },
+  {
+    "cluster_id": "1_59",
+    "rep_accession": "GCF_001870755.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. infantis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. infantis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001870755.1"
+    ]
+  },
+  {
+    "cluster_id": "1_6",
+    "rep_accession": "GCF_900637145.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 11
+      }
+    ],
+    "member_count": 11,
+    "members": [
+      "GCA_033567675.1",
+      "GCF_000158015.1",
+      "GCF_001025175.1",
+      "GCF_002838245.1",
+      "GCF_003095095.1",
+      "GCF_008868405.1",
+      "GCF_045272295.1",
+      "GCF_053709055.1",
+      "GCF_054072875.1",
+      "GCF_058244605.1",
+      "GCF_900637145.1"
+    ]
+  },
+  {
+    "cluster_id": "1_60",
+    "rep_accession": "GCF_004803425.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. infantis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. infantis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004803425.1"
+    ]
+  },
+  {
+    "cluster_id": "1_61",
+    "rep_accession": "GCF_033659025.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_033659025.1"
+    ]
+  },
+  {
+    "cluster_id": "1_62",
+    "rep_accession": "GCF_033659045.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_033659045.1",
+      "GCF_033659465.1"
+    ]
+  },
+  {
+    "cluster_id": "1_63",
+    "rep_accession": "GCF_033658105.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_033658105.1"
+    ]
+  },
+  {
+    "cluster_id": "1_64",
+    "rep_accession": "GCF_001686125.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. infantis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. infantis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001686125.1"
+    ]
+  },
+  {
+    "cluster_id": "1_65",
+    "rep_accession": "GCF_037967005.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. infantis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. infantis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_037967005.1"
+    ]
+  },
+  {
+    "cluster_id": "1_66",
+    "rep_accession": "GCF_033658945.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 24
+      }
+    ],
+    "member_count": 24,
+    "members": [
+      "GCF_033344535.1",
+      "GCF_033344655.1",
+      "GCF_033658055.1",
+      "GCF_033658165.1",
+      "GCF_033658285.1",
+      "GCF_033658425.1",
+      "GCF_033658445.1",
+      "GCF_033658685.1",
+      "GCF_033658725.1",
+      "GCF_033658805.1",
+      "GCF_033658825.1",
+      "GCF_033658865.1",
+      "GCF_033658945.1",
+      "GCF_033658985.1",
+      "GCF_033659085.1",
+      "GCF_033659105.1",
+      "GCF_033659235.1",
+      "GCF_033659285.1",
+      "GCF_033659365.1",
+      "GCF_033659405.1",
+      "GCF_033659525.1",
+      "GCF_033659585.1",
+      "GCF_033659655.1",
+      "GCF_033659765.1"
+    ]
+  },
+  {
+    "cluster_id": "1_67",
+    "rep_accession": "GCF_049205175.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. infantis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. infantis",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_049205175.1",
+      "GCF_049205195.1"
+    ]
+  },
+  {
+    "cluster_id": "1_68",
+    "rep_accession": "GCF_033657925.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_033657925.1",
+      "GCF_033659425.1"
+    ]
+  },
+  {
+    "cluster_id": "1_69",
+    "rep_accession": "GCF_033657745.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_033657745.1"
+    ]
+  },
+  {
+    "cluster_id": "1_7",
+    "rep_accession": "GCF_001685785.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001685785.1"
+    ]
+  },
+  {
+    "cluster_id": "1_70",
+    "rep_accession": "GCF_033658905.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_033658905.1"
+    ]
+  },
+  {
+    "cluster_id": "1_71",
+    "rep_accession": "GCF_034051595.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 9
+      }
+    ],
+    "member_count": 9,
+    "members": [
+      "GCA_045689125.1",
+      "GCA_045689165.1",
+      "GCA_045689175.1",
+      "GCA_045689205.1",
+      "GCF_034050535.1",
+      "GCF_034051595.1",
+      "GCF_034052395.1",
+      "GCF_034052555.1",
+      "GCF_045286995.1"
+    ]
+  },
+  {
+    "cluster_id": "1_72",
+    "rep_accession": "GCF_033658765.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      },
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_026520375.1",
+      "GCF_033658765.1"
+    ]
+  },
+  {
+    "cluster_id": "1_73",
+    "rep_accession": "GCF_003130775.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_003130775.1"
+    ]
+  },
+  {
+    "cluster_id": "1_74",
+    "rep_accession": "GCF_000771285.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. suis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. suis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_000771285.1"
+    ]
+  },
+  {
+    "cluster_id": "1_75",
+    "rep_accession": "GCF_000092325.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 3
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 5,
+    "members": [
+      "GCF_000092325.1",
+      "GCF_000410595.1",
+      "GCF_000730205.1",
+      "GCF_041447125.1",
+      "GCF_041447135.1"
+    ]
+  },
+  {
+    "cluster_id": "1_76",
+    "rep_accession": "GCF_001870705.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. suis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. suis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001870705.1"
+    ]
+  },
+  {
+    "cluster_id": "1_77",
+    "rep_accession": "GCF_033657985.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_033657985.1"
+    ]
+  },
+  {
+    "cluster_id": "1_78",
+    "rep_accession": "GCF_053708835.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 5
+      },
+      {
+        "species_subsp": "Bifidobacterium sp.",
+        "count": 1
+      }
+    ],
+    "member_count": 6,
+    "members": [
+      "GCF_033344545.1",
+      "GCF_033344605.1",
+      "GCF_033659165.1",
+      "GCF_033659605.1",
+      "GCF_041900695.1",
+      "GCF_053708835.1"
+    ]
+  },
+  {
+    "cluster_id": "1_79",
+    "rep_accession": "GCF_037997085.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      },
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_004333235.1",
+      "GCF_030450025.1",
+      "GCF_037997085.1"
+    ]
+  },
+  {
+    "cluster_id": "1_8",
+    "rep_accession": "GCF_001685945.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001685945.1"
+    ]
+  },
+  {
+    "cluster_id": "1_80",
+    "rep_accession": "GCF_001725985.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001725985.1"
+    ]
+  },
+  {
+    "cluster_id": "1_81",
+    "rep_accession": "GCF_004333105.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      },
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_004332895.1",
+      "GCF_004333105.1",
+      "GCF_033658405.1"
+    ]
+  },
+  {
+    "cluster_id": "1_82",
+    "rep_accession": "GCF_001940535.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_001686165.1",
+      "GCF_001940535.1"
+    ]
+  },
+  {
+    "cluster_id": "1_83",
+    "rep_accession": "GCF_004334325.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004334325.1"
+    ]
+  },
+  {
+    "cluster_id": "1_84",
+    "rep_accession": "GCF_004334745.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004334745.1"
+    ]
+  },
+  {
+    "cluster_id": "1_85",
+    "rep_accession": "GCF_004333675.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004333675.1",
+      "GCF_004334785.1"
+    ]
+  },
+  {
+    "cluster_id": "1_86",
+    "rep_accession": "GCF_004332725.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_004332725.1"
+    ]
+  },
+  {
+    "cluster_id": "1_87",
+    "rep_accession": "GCF_004333575.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004332835.1",
+      "GCF_004333575.1"
+    ]
+  },
+  {
+    "cluster_id": "1_88",
+    "rep_accession": "GCF_024125265.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      },
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004333425.1",
+      "GCF_024125265.1"
+    ]
+  },
+  {
+    "cluster_id": "1_89",
+    "rep_accession": "GCF_024349265.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      },
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 2
+      }
+    ],
+    "member_count": 4,
+    "members": [
+      "GCF_016634435.1",
+      "GCF_024349265.1",
+      "GCF_033344625.1",
+      "GCF_033658605.1"
+    ]
+  },
+  {
+    "cluster_id": "1_9",
+    "rep_accession": "GCF_000220135.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium breve",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium breve",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_000220135.1",
+      "GCF_009429085.1"
+    ]
+  },
+  {
+    "cluster_id": "1_90",
+    "rep_accession": "GCF_000210755.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 2
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_000210755.1",
+      "GCF_033657795.1",
+      "GCF_033659485.1"
+    ]
+  },
+  {
+    "cluster_id": "1_91",
+    "rep_accession": "GCF_040883395.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_040883395.1"
+    ]
+  },
+  {
+    "cluster_id": "1_92",
+    "rep_accession": "GCF_004334555.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004334555.1",
+      "GCF_017312565.1"
+    ]
+  },
+  {
+    "cluster_id": "1_93",
+    "rep_accession": "GCF_033657905.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      },
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004333035.1",
+      "GCF_033657905.1"
+    ]
+  },
+  {
+    "cluster_id": "1_94",
+    "rep_accession": "GCF_000166315.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      },
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_000166315.1",
+      "GCF_009728915.1"
+    ]
+  },
+  {
+    "cluster_id": "1_95",
+    "rep_accession": "GCF_004936435.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      },
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_004936435.1",
+      "GCF_016069995.1"
+    ]
+  },
+  {
+    "cluster_id": "1_96",
+    "rep_accession": "GCF_002276185.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_002276185.1"
+    ]
+  },
+  {
+    "cluster_id": "1_97",
+    "rep_accession": "GCF_030414155.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum subsp. longum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_030414155.1"
+    ]
+  },
+  {
+    "cluster_id": "1_98",
+    "rep_accession": "GCF_030334805.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum subsp. longum",
+        "count": 1
+      },
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_000261265.1",
+      "GCF_030334805.1"
+    ]
+  },
+  {
+    "cluster_id": "1_99",
+    "rep_accession": "GCF_036814245.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium longum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium longum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_036814245.1"
+    ]
+  },
+  {
+    "cluster_id": "20_0",
+    "rep_accession": "GCF_036986915.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium indicum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium indicum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_036986915.1"
+    ]
+  },
+  {
+    "cluster_id": "21_0",
+    "rep_accession": "GCF_041080795.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium aquikefiricola",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium aquikefiricola",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_041080795.1"
+    ]
+  },
+  {
+    "cluster_id": "22_0",
+    "rep_accession": "GCF_059724925.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium vespertilionis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium vespertilionis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_059724925.1"
+    ]
+  },
+  {
+    "cluster_id": "2_1",
+    "rep_accession": "GCF_020526225.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_001686065.1",
+      "GCF_020526225.1"
+    ]
+  },
+  {
+    "cluster_id": "2_10",
+    "rep_accession": "GCF_020526365.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_020526345.1",
+      "GCF_020526365.1"
+    ]
+  },
+  {
+    "cluster_id": "2_11",
+    "rep_accession": "GCF_020526485.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 3
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_020526465.1",
+      "GCF_020526485.1",
+      "GCF_020526505.1"
+    ]
+  },
+  {
+    "cluster_id": "2_12",
+    "rep_accession": "GCF_020525765.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_020525765.1",
+      "GCF_020526525.1"
+    ]
+  },
+  {
+    "cluster_id": "2_13",
+    "rep_accession": "GCF_020526185.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_020526185.1"
+    ]
+  },
+  {
+    "cluster_id": "2_14",
+    "rep_accession": "GCF_020526145.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_020526145.1"
+    ]
+  },
+  {
+    "cluster_id": "2_15",
+    "rep_accession": "GCF_029541965.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_029541965.1"
+    ]
+  },
+  {
+    "cluster_id": "2_16",
+    "rep_accession": "GCF_060803555.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_060803555.1"
+    ]
+  },
+  {
+    "cluster_id": "2_17",
+    "rep_accession": "GCF_001025215.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 4
+      }
+    ],
+    "member_count": 4,
+    "members": [
+      "GCF_000173435.1",
+      "GCF_000741685.1",
+      "GCF_001025215.1",
+      "GCF_060677005.1"
+    ]
+  },
+  {
+    "cluster_id": "2_18",
+    "rep_accession": "GCF_021484885.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_021484885.1"
+    ]
+  },
+  {
+    "cluster_id": "2_19",
+    "rep_accession": "GCF_002075945.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_002075945.1"
+    ]
+  },
+  {
+    "cluster_id": "2_2",
+    "rep_accession": "GCF_020541825.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_001686025.1",
+      "GCF_020541825.1"
+    ]
+  },
+  {
+    "cluster_id": "2_20",
+    "rep_accession": "GCF_041357755.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_041357755.1"
+    ]
+  },
+  {
+    "cluster_id": "2_21",
+    "rep_accession": "GCF_050585905.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_050585905.1"
+    ]
+  },
+  {
+    "cluster_id": "2_22",
+    "rep_accession": "GCF_000708005.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_000708005.1"
+    ]
+  },
+  {
+    "cluster_id": "2_23",
+    "rep_accession": "GCF_000940535.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_000940535.1"
+    ]
+  },
+  {
+    "cluster_id": "2_24",
+    "rep_accession": "GCF_020526265.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_001686045.1",
+      "GCF_020526265.1"
+    ]
+  },
+  {
+    "cluster_id": "2_25",
+    "rep_accession": "GCF_049204735.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_049204735.1"
+    ]
+  },
+  {
+    "cluster_id": "2_26",
+    "rep_accession": "GCF_049191945.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_049191945.1"
+    ]
+  },
+  {
+    "cluster_id": "2_27",
+    "rep_accession": "GCF_056924395.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_056924395.1"
+    ]
+  },
+  {
+    "cluster_id": "2_28",
+    "rep_accession": "GCF_059738675.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_020526645.1",
+      "GCF_059738675.1"
+    ]
+  },
+  {
+    "cluster_id": "2_29",
+    "rep_accession": "GCF_040151135.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_040151135.1"
+    ]
+  },
+  {
+    "cluster_id": "2_3",
+    "rep_accession": "GCF_060708265.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 8
+      }
+    ],
+    "member_count": 8,
+    "members": [
+      "GCF_020525745.1",
+      "GCF_020526155.1",
+      "GCF_060677085.1",
+      "GCF_060708265.1",
+      "GCF_061325735.1",
+      "GCF_061325745.1",
+      "GCF_061326135.1",
+      "GCF_061334475.1"
+    ]
+  },
+  {
+    "cluster_id": "2_30",
+    "rep_accession": "GCF_020526295.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_001685965.1",
+      "GCF_020526295.1"
+    ]
+  },
+  {
+    "cluster_id": "2_31",
+    "rep_accession": "GCF_020526285.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_001685985.1",
+      "GCF_020526285.1"
+    ]
+  },
+  {
+    "cluster_id": "2_32",
+    "rep_accession": "GCF_020526545.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_020526545.1",
+      "GCF_020526605.1"
+    ]
+  },
+  {
+    "cluster_id": "2_33",
+    "rep_accession": "GCF_053708955.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_053708955.1"
+    ]
+  },
+  {
+    "cluster_id": "2_34",
+    "rep_accession": "GCF_020526585.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_020526405.1",
+      "GCF_020526585.1"
+    ]
+  },
+  {
+    "cluster_id": "2_35",
+    "rep_accession": "GCF_020526425.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_020526425.1"
+    ]
+  },
+  {
+    "cluster_id": "2_36",
+    "rep_accession": "GCF_020526325.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_020526325.1"
+    ]
+  },
+  {
+    "cluster_id": "2_37",
+    "rep_accession": "GCF_020526445.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_020526445.1"
+    ]
+  },
+  {
+    "cluster_id": "2_38",
+    "rep_accession": "GCF_020541885.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_020526665.1",
+      "GCF_020541885.1"
+    ]
+  },
+  {
+    "cluster_id": "2_39",
+    "rep_accession": "GCF_020541925.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_020541925.1"
+    ]
+  },
+  {
+    "cluster_id": "2_4",
+    "rep_accession": "GCF_020541865.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 8
+      }
+    ],
+    "member_count": 8,
+    "members": [
+      "GCF_020541865.1",
+      "GCF_060677025.1",
+      "GCF_060708695.1",
+      "GCF_060708705.1",
+      "GCF_061325035.1",
+      "GCF_061325045.1",
+      "GCF_061325335.1",
+      "GCF_061325355.1"
+    ]
+  },
+  {
+    "cluster_id": "2_40",
+    "rep_accession": "GCF_050585885.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_050585885.1"
+    ]
+  },
+  {
+    "cluster_id": "2_41",
+    "rep_accession": "GCF_039612515.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_039612515.1"
+    ]
+  },
+  {
+    "cluster_id": "2_42",
+    "rep_accession": "GCF_050586125.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium hominis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium hominis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_050586125.1"
+    ]
+  },
+  {
+    "cluster_id": "2_43",
+    "rep_accession": "GCF_050586145.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium hominis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium hominis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_050586145.1"
+    ]
+  },
+  {
+    "cluster_id": "2_44",
+    "rep_accession": "GCF_023656765.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium sp.",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium sp.",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_023656765.1"
+    ]
+  },
+  {
+    "cluster_id": "2_45",
+    "rep_accession": "GCF_050516145.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium catenulatum subsp. puerorum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium catenulatum subsp. puerorum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_050516145.1"
+    ]
+  },
+  {
+    "cluster_id": "2_46",
+    "rep_accession": "GCF_050586025.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium catenulatum subsp. puerorum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium catenulatum subsp. puerorum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_050586025.1"
+    ]
+  },
+  {
+    "cluster_id": "2_47",
+    "rep_accession": "GCF_050586085.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium catenulatum subsp. puerorum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium catenulatum subsp. puerorum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_050586085.1"
+    ]
+  },
+  {
+    "cluster_id": "2_48",
+    "rep_accession": "GCF_000800455.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium catenulatum subsp. puerorum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium catenulatum subsp. puerorum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_000800455.1"
+    ]
+  },
+  {
+    "cluster_id": "2_49",
+    "rep_accession": "GCF_001025195.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium catenulatum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium catenulatum unspecified",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_000173455.1",
+      "GCF_001025195.1"
+    ]
+  },
+  {
+    "cluster_id": "2_5",
+    "rep_accession": "GCF_020526555.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_020526555.1"
+    ]
+  },
+  {
+    "cluster_id": "2_50",
+    "rep_accession": "GCF_050585985.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium catenulatum subsp. catenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium catenulatum subsp. catenulatum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_050585985.1",
+      "GCF_050586005.1"
+    ]
+  },
+  {
+    "cluster_id": "2_51",
+    "rep_accession": "GCF_029911315.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium catenulatum subsp. catenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium catenulatum subsp. catenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_029911315.1"
+    ]
+  },
+  {
+    "cluster_id": "2_52",
+    "rep_accession": "GCF_029911425.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_029911425.1"
+    ]
+  },
+  {
+    "cluster_id": "2_53",
+    "rep_accession": "GCF_029911565.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_029911565.1"
+    ]
+  },
+  {
+    "cluster_id": "2_54",
+    "rep_accession": "GCF_029911485.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+        "count": 4
+      }
+    ],
+    "member_count": 4,
+    "members": [
+      "GCF_029911415.1",
+      "GCF_029911485.1",
+      "GCF_029911505.1",
+      "GCF_029911515.1"
+    ]
+  },
+  {
+    "cluster_id": "2_55",
+    "rep_accession": "GCF_029911435.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_029911435.1"
+    ]
+  },
+  {
+    "cluster_id": "2_56",
+    "rep_accession": "GCF_029911545.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_029911545.1"
+    ]
+  },
+  {
+    "cluster_id": "2_57",
+    "rep_accession": "GCF_029911285.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_029911285.1"
+    ]
+  },
+  {
+    "cluster_id": "2_58",
+    "rep_accession": "GCF_029911405.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_029911405.1"
+    ]
+  },
+  {
+    "cluster_id": "2_59",
+    "rep_accession": "GCF_001042615.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001042615.1"
+    ]
+  },
+  {
+    "cluster_id": "2_6",
+    "rep_accession": "GCF_020526125.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_020526125.1"
+    ]
+  },
+  {
+    "cluster_id": "2_60",
+    "rep_accession": "GCF_029911385.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_029911385.1"
+    ]
+  },
+  {
+    "cluster_id": "2_61",
+    "rep_accession": "GCF_009684555.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium catenulatum subsp. kashiwanohense",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_009684555.1"
+    ]
+  },
+  {
+    "cluster_id": "2_7",
+    "rep_accession": "GCF_020541905.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_020526625.1",
+      "GCF_020541905.1"
+    ]
+  },
+  {
+    "cluster_id": "2_8",
+    "rep_accession": "GCF_020526385.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_020526195.1",
+      "GCF_020526385.1"
+    ]
+  },
+  {
+    "cluster_id": "2_9",
+    "rep_accession": "GCF_020526245.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium pseudocatenulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudocatenulatum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_001686005.1",
+      "GCF_020526245.1"
+    ]
+  },
+  {
+    "cluster_id": "3_1",
+    "rep_accession": "GCF_011770105.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium animalis unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium animalis subsp. lactis",
+        "count": 69
+      },
+      {
+        "species_subsp": "Bifidobacterium animalis unspecified",
+        "count": 21
+      }
+    ],
+    "member_count": 90,
+    "members": [
+      "GCA_041447145.1",
+      "GCA_041447155.1",
+      "GCF_000021425.1",
+      "GCF_000022705.1",
+      "GCF_000022965.1",
+      "GCF_000025245.2",
+      "GCF_000092765.1",
+      "GCF_000220885.1",
+      "GCF_000224965.2",
+      "GCF_000240765.1",
+      "GCF_000277325.1",
+      "GCF_000277345.1",
+      "GCF_000414215.2",
+      "GCF_000471945.1",
+      "GCF_000695895.1",
+      "GCF_000816205.1",
+      "GCF_000817045.1",
+      "GCF_000818055.1",
+      "GCF_001263975.1",
+      "GCF_001263985.1",
+      "GCF_002220485.1",
+      "GCF_002914815.1",
+      "GCF_002914895.1",
+      "GCF_003094775.1",
+      "GCF_003094815.1",
+      "GCF_003094835.1",
+      "GCF_003094875.1",
+      "GCF_003094895.1",
+      "GCF_003095015.1",
+      "GCF_003095055.1",
+      "GCF_003095075.1",
+      "GCF_003095115.1",
+      "GCF_003390755.1",
+      "GCF_003428375.1",
+      "GCF_003606305.1",
+      "GCF_003970855.1",
+      "GCF_004135895.1",
+      "GCF_006538245.1",
+      "GCF_006538265.1",
+      "GCF_006538285.1",
+      "GCF_008041995.1",
+      "GCF_008868455.1",
+      "GCF_009834975.1",
+      "GCF_011770105.1",
+      "GCF_015377505.1",
+      "GCF_017963615.1",
+      "GCF_018408985.1",
+      "GCF_018409015.1",
+      "GCF_019576095.1",
+      "GCF_021018785.1",
+      "GCF_023375105.1",
+      "GCF_023704215.1",
+      "GCF_025506255.1",
+      "GCF_028463865.1",
+      "GCF_029167605.1",
+      "GCF_029542645.1",
+      "GCF_030284625.1",
+      "GCF_030511705.1",
+      "GCF_030552855.1",
+      "GCF_034561975.1",
+      "GCF_035282465.1",
+      "GCF_036923305.1",
+      "GCF_037966655.1",
+      "GCF_038086955.1",
+      "GCF_040084745.1",
+      "GCF_040150835.1",
+      "GCF_040151095.1",
+      "GCF_040151175.1",
+      "GCF_040425675.1",
+      "GCF_041447105.1",
+      "GCF_044502405.1",
+      "GCF_044866785.1",
+      "GCF_047716045.1",
+      "GCF_047716065.1",
+      "GCF_047716075.1",
+      "GCF_047716085.1",
+      "GCF_047716095.1",
+      "GCF_047716125.1",
+      "GCF_047716175.1",
+      "GCF_047716195.1",
+      "GCF_049191485.1",
+      "GCF_049191795.1",
+      "GCF_049191975.1",
+      "GCF_049192005.1",
+      "GCF_049192025.1",
+      "GCF_049192035.1",
+      "GCF_049204795.1",
+      "GCF_049204815.1",
+      "GCF_054072915.1",
+      "GCF_054604265.1"
+    ]
+  },
+  {
+    "cluster_id": "3_2",
+    "rep_accession": "GCF_003671995.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium animalis subsp. animalis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium animalis subsp. animalis",
+        "count": 4
+      },
+      {
+        "species_subsp": "Bifidobacterium animalis unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 5,
+    "members": [
+      "GCF_000260715.1",
+      "GCF_001039715.1",
+      "GCF_001263835.1",
+      "GCF_003671995.1",
+      "GCF_045273105.1"
+    ]
+  },
+  {
+    "cluster_id": "3_3",
+    "rep_accession": "GCF_001263865.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium animalis subsp. animalis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium animalis subsp. animalis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001263865.1"
+    ]
+  },
+  {
+    "cluster_id": "3_4",
+    "rep_accession": "GCF_001264055.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium animalis subsp. animalis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium animalis subsp. animalis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001264055.1"
+    ]
+  },
+  {
+    "cluster_id": "4_1",
+    "rep_accession": "GCF_016069985.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium bifidum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium bifidum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_008868415.1",
+      "GCF_016069985.1"
+    ]
+  },
+  {
+    "cluster_id": "4_10",
+    "rep_accession": "GCF_040150955.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium bifidum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium bifidum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_040150955.1"
+    ]
+  },
+  {
+    "cluster_id": "4_2",
+    "rep_accession": "GCF_002845845.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium bifidum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium bifidum",
+        "count": 9
+      }
+    ],
+    "member_count": 9,
+    "members": [
+      "GCF_002845845.1",
+      "GCF_003094645.1",
+      "GCF_003094735.1",
+      "GCF_003094755.1",
+      "GCF_003094795.1",
+      "GCF_003095035.1",
+      "GCF_020908005.1",
+      "GCF_024341745.1",
+      "GCF_033959405.1"
+    ]
+  },
+  {
+    "cluster_id": "4_3",
+    "rep_accession": "GCF_016070035.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium bifidum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium bifidum",
+        "count": 4
+      }
+    ],
+    "member_count": 4,
+    "members": [
+      "GCF_000299595.1",
+      "GCF_002114145.1",
+      "GCF_004799295.1",
+      "GCF_016070035.1"
+    ]
+  },
+  {
+    "cluster_id": "4_4",
+    "rep_accession": "GCF_000265095.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium bifidum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium bifidum",
+        "count": 3
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_000265095.1",
+      "GCF_001281345.1",
+      "GCF_026162505.1"
+    ]
+  },
+  {
+    "cluster_id": "4_5",
+    "rep_accession": "GCF_049205235.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium bifidum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium bifidum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_049205235.1",
+      "GCF_056935115.1"
+    ]
+  },
+  {
+    "cluster_id": "4_6",
+    "rep_accession": "GCF_017894325.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium bifidum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium bifidum",
+        "count": 3
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_000155395.1",
+      "GCF_017894325.1",
+      "GCF_049191915.1"
+    ]
+  },
+  {
+    "cluster_id": "4_7",
+    "rep_accession": "GCF_003573895.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium bifidum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium bifidum",
+        "count": 4
+      }
+    ],
+    "member_count": 4,
+    "members": [
+      "GCF_003573895.1",
+      "GCF_026076095.1",
+      "GCF_049192055.1",
+      "GCF_049192085.1"
+    ]
+  },
+  {
+    "cluster_id": "4_8",
+    "rep_accession": "GCF_001025135.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium bifidum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium bifidum",
+        "count": 15
+      }
+    ],
+    "member_count": 15,
+    "members": [
+      "GCA_001576865.1",
+      "GCA_001576895.1",
+      "GCF_000165905.1",
+      "GCF_000466525.1",
+      "GCF_000741085.1",
+      "GCF_000771485.1",
+      "GCF_001025135.1",
+      "GCF_001685685.1",
+      "GCF_011029205.1",
+      "GCF_016307165.1",
+      "GCF_017814645.1",
+      "GCF_025506295.1",
+      "GCF_045635495.1",
+      "GCF_049204775.1",
+      "GCF_056916095.1"
+    ]
+  },
+  {
+    "cluster_id": "4_9",
+    "rep_accession": "GCF_045273085.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium bifidum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium bifidum",
+        "count": 5
+      }
+    ],
+    "member_count": 5,
+    "members": [
+      "GCF_000164965.1",
+      "GCF_001020405.1",
+      "GCF_020892075.1",
+      "GCF_039612605.1",
+      "GCF_045273085.1"
+    ]
+  },
+  {
+    "cluster_id": "5_1",
+    "rep_accession": "GCF_049309985.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_049309985.1"
+    ]
+  },
+  {
+    "cluster_id": "5_10",
+    "rep_accession": "GCF_049309925.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_049309925.1"
+    ]
+  },
+  {
+    "cluster_id": "5_11",
+    "rep_accession": "GCF_054111585.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_054111565.1",
+      "GCF_054111585.1"
+    ]
+  },
+  {
+    "cluster_id": "5_12",
+    "rep_accession": "GCF_044094625.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_044094625.1"
+    ]
+  },
+  {
+    "cluster_id": "5_13",
+    "rep_accession": "GCF_027664925.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_027664925.1"
+    ]
+  },
+  {
+    "cluster_id": "5_14",
+    "rep_accession": "GCF_016069975.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_016069975.1"
+    ]
+  },
+  {
+    "cluster_id": "5_15",
+    "rep_accession": "GCF_049191855.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_049191855.1"
+    ]
+  },
+  {
+    "cluster_id": "5_16",
+    "rep_accession": "GCF_000010425.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 7
+      }
+    ],
+    "member_count": 7,
+    "members": [
+      "GCA_041447095.1",
+      "GCF_000010425.1",
+      "GCF_013249115.1",
+      "GCF_025289145.1",
+      "GCF_028743295.1",
+      "GCF_054962495.1",
+      "GCF_058374135.1"
+    ]
+  },
+  {
+    "cluster_id": "5_17",
+    "rep_accession": "GCF_002108035.2",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_002108035.2"
+    ]
+  },
+  {
+    "cluster_id": "5_18",
+    "rep_accession": "GCF_017815835.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_002107925.1",
+      "GCF_017815835.1"
+    ]
+  },
+  {
+    "cluster_id": "5_19",
+    "rep_accession": "GCF_049309885.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_049309885.1"
+    ]
+  },
+  {
+    "cluster_id": "5_2",
+    "rep_accession": "GCF_049310045.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_049310045.1"
+    ]
+  },
+  {
+    "cluster_id": "5_20",
+    "rep_accession": "GCF_023497865.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_023497865.1"
+    ]
+  },
+  {
+    "cluster_id": "5_21",
+    "rep_accession": "GCF_054111545.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_054111545.1"
+    ]
+  },
+  {
+    "cluster_id": "5_22",
+    "rep_accession": "GCF_049309965.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_049309965.1"
+    ]
+  },
+  {
+    "cluster_id": "5_23",
+    "rep_accession": "GCF_049309805.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_049309805.1"
+    ]
+  },
+  {
+    "cluster_id": "5_24",
+    "rep_accession": "GCF_053708915.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_053708915.1"
+    ]
+  },
+  {
+    "cluster_id": "5_25",
+    "rep_accession": "GCF_000737885.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_000737885.1"
+    ]
+  },
+  {
+    "cluster_id": "5_26",
+    "rep_accession": "GCF_029855065.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_029855065.1"
+    ]
+  },
+  {
+    "cluster_id": "5_27",
+    "rep_accession": "GCF_049309905.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_049309905.1"
+    ]
+  },
+  {
+    "cluster_id": "5_28",
+    "rep_accession": "GCF_054111625.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_054111625.1"
+    ]
+  },
+  {
+    "cluster_id": "5_29",
+    "rep_accession": "GCF_054689485.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_054689485.1"
+    ]
+  },
+  {
+    "cluster_id": "5_3",
+    "rep_accession": "GCF_036814965.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_036814365.1",
+      "GCF_036814965.1"
+    ]
+  },
+  {
+    "cluster_id": "5_30",
+    "rep_accession": "GCF_003856735.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_003856735.1"
+    ]
+  },
+  {
+    "cluster_id": "5_31",
+    "rep_accession": "GCF_049309865.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_049309865.1"
+    ]
+  },
+  {
+    "cluster_id": "5_32",
+    "rep_accession": "GCF_000741415.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_000741415.1"
+    ]
+  },
+  {
+    "cluster_id": "5_33",
+    "rep_accession": "GCF_049191445.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_049191445.1"
+    ]
+  },
+  {
+    "cluster_id": "5_34",
+    "rep_accession": "GCF_054111645.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_054111605.1",
+      "GCF_054111645.1"
+    ]
+  },
+  {
+    "cluster_id": "5_35",
+    "rep_accession": "GCF_049205335.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_049205335.1"
+    ]
+  },
+  {
+    "cluster_id": "5_36",
+    "rep_accession": "GCF_054111665.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_054111665.1"
+    ]
+  },
+  {
+    "cluster_id": "5_4",
+    "rep_accession": "GCF_009832825.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_009832825.1"
+    ]
+  },
+  {
+    "cluster_id": "5_5",
+    "rep_accession": "GCF_000817995.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_000817995.1"
+    ]
+  },
+  {
+    "cluster_id": "5_6",
+    "rep_accession": "GCF_000154085.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_000154085.1"
+    ]
+  },
+  {
+    "cluster_id": "5_7",
+    "rep_accession": "GCF_014524935.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_014524935.1"
+    ]
+  },
+  {
+    "cluster_id": "5_8",
+    "rep_accession": "GCF_039830185.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_039830185.1"
+    ]
+  },
+  {
+    "cluster_id": "5_9",
+    "rep_accession": "GCF_001010915.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium adolescentis",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium adolescentis",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_001010915.1"
+    ]
+  },
+  {
+    "cluster_id": "6_1",
+    "rep_accession": "GCF_053708995.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium dentium",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium dentium",
+        "count": 3
+      }
+    ],
+    "member_count": 3,
+    "members": [
+      "GCF_000172135.1",
+      "GCF_001042595.1",
+      "GCF_053708995.1"
+    ]
+  },
+  {
+    "cluster_id": "6_2",
+    "rep_accession": "GCF_000146775.1",
+    "rep_tier": "Tier2",
+    "species_subsp": "Bifidobacterium dentium",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium dentium",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_000146775.1"
+    ]
+  },
+  {
+    "cluster_id": "6_3",
+    "rep_accession": "GCF_017743195.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium dentium",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium dentium",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_017743195.1"
+    ]
+  },
+  {
+    "cluster_id": "7_1",
+    "rep_accession": "GCF_000800475.2",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium pseudolongum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudolongum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_000800475.2"
+    ]
+  },
+  {
+    "cluster_id": "7_2",
+    "rep_accession": "GCF_002282915.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium pseudolongum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudolongum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_002282915.1"
+    ]
+  },
+  {
+    "cluster_id": "7_3",
+    "rep_accession": "GCF_057073415.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium pseudolongum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudolongum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_057073415.1"
+    ]
+  },
+  {
+    "cluster_id": "7_4",
+    "rep_accession": "GCF_024138855.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium pseudolongum unspecified",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudolongum unspecified",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_024138855.1"
+    ]
+  },
+  {
+    "cluster_id": "7_5",
+    "rep_accession": "GCF_002706665.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium pseudolongum subsp. globosum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium pseudolongum subsp. globosum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_002706665.1"
+    ]
+  },
+  {
+    "cluster_id": "8_1",
+    "rep_accession": "GCF_000347695.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium thermophilum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium thermophilum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_000347695.1",
+      "GCF_050565525.1"
+    ]
+  },
+  {
+    "cluster_id": "8_2",
+    "rep_accession": "GCF_055378475.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium porcinum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium porcinum",
+        "count": 1
+      }
+    ],
+    "member_count": 1,
+    "members": [
+      "GCF_055378475.1"
+    ]
+  },
+  {
+    "cluster_id": "9_1",
+    "rep_accession": "GCF_001025155.1",
+    "rep_tier": "Tier1",
+    "species_subsp": "Bifidobacterium angulatum",
+    "species_subsp_breakdown": [
+      {
+        "species_subsp": "Bifidobacterium angulatum",
+        "count": 2
+      }
+    ],
+    "member_count": 2,
+    "members": [
+      "GCF_000156635.1",
+      "GCF_001025155.1"
+    ]
+  }
+]
